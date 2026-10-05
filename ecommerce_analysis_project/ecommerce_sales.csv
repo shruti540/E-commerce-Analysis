@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Category,Product,State,Quantity,Unit_Price,Discount_Percent,Revenue,Cost,Profit,Customer_Rating,Payment_Method,Order_Status
+ORD10001,2025-01-01,Electronics,Smartwatch,Tamil Nadu,4,43936,15,149382.4,136006.47,13375.93,2.5,Net Banking,Delivered
+ORD10002,2025-01-01,Beauty,Moisturizer,Telangana,3,3337,10,9009.9,7111.87,1898.03,3.6,UPI,Delivered
+ORD10003,2025-01-01,Beauty,Moisturizer,Karnataka,4,20026,20,64083.2,49352.94,14730.26,4.0,Cash on Delivery,Delivered
+ORD10004,2025-01-02,Home & Kitchen,Bedsheet,Delhi,4,23048,15,78363.2,69266.82,9096.38,3.7,Debit Card,Delivered
+ORD10005,2025-01-02,Home & Kitchen,Mixer,West Bengal,3,39944,0,119832.0,68640.95,51191.05,2.8,Cash on Delivery,Delivered
+ORD10006,2025-01-02,Sports,Running Shoes,Telangana,2,6669,20,10670.4,10124.78,545.62,3.5,UPI,Delivered
+ORD10007,2025-01-03,Electronics,Smartwatch,Delhi,3,21844,10,58978.8,46481.59,12497.21,3.5,Debit Card,Delivered
+ORD10008,2025-01-03,Beauty,Moisturizer,Karnataka,2,7828,0,15656.0,9078.95,6577.05,3.0,Cash on Delivery,Cancelled
+ORD10009,2025-01-03,Fashion,Shoes,Delhi,3,39434,5,112386.9,67605.63,44781.27,4.4,Credit Card,Delivered
+ORD10010,2025-01-04,Electronics,Smartphone,Gujarat,4,31706,15,107800.4,95463.7,12336.7,3.3,Net Banking,Cancelled
+ORD10011,2025-01-04,Home & Kitchen,Cookware Set,Gujarat,2,24962,0,49924.0,31406.82,18517.18,4.0,Debit Card,Delivered
+ORD10012,2025-01-05,Sports,Running Shoes,Karnataka,3,19798,5,56424.3,46927.88,9496.42,3.8,Credit Card,Delivered
+ORD10013,2025-01-05,Beauty,Face Wash,Maharashtra,1,7870,0,7870.0,5947.83,1922.17,4.7,UPI,Delivered
+ORD10014,2025-01-05,Beauty,Perfume,Gujarat,3,46112,10,124502.4,102162.71,22339.69,2.8,UPI,Delivered
+ORD10015,2025-01-06,Beauty,Moisturizer,Telangana,2,32471,10,58447.8,40603.27,17844.53,2.8,Debit Card,Delivered
+ORD10016,2025-01-06,Beauty,Shampoo,Karnataka,2,16128,10,29030.4,23915.08,5115.32,3.3,Debit Card,Delivered
+ORD10017,2025-01-06,Home & Kitchen,Cookware Set,Delhi,3,20843,5,59402.55,50398.37,9004.18,3.6,Net Banking,Delivered
+ORD10018,2025-01-07,Electronics,Headphones,Karnataka,1,36377,0,36377.0,20906.63,15470.37,3.2,Cash on Delivery,Delivered
+ORD10019,2025-01-07,Sports,Cricket Bat,Karnataka,3,36048,10,97329.6,69002.78,28326.82,4.4,UPI,Delivered
+ORD10020,2025-01-07,Home & Kitchen,Mixer,Tamil Nadu,3,23189,10,62610.3,42669.72,19940.58,3.1,Debit Card,Returned
+ORD10021,2025-01-08,Home & Kitchen,Mixer,Delhi,2,15319,15,26042.3,20103.97,5938.33,2.7,Debit Card,Returned
+ORD10022,2025-01-08,Fashion,T-Shirt,Karnataka,1,33082,0,33082.0,24825.72,8256.28,3.5,UPI,Cancelled
+ORD10023,2025-01-09,Electronics,Smartwatch,West Bengal,2,32997,0,65994.0,44746.93,21247.07,4.4,Cash on Delivery,Delivered
+ORD10024,2025-01-09,Sports,Running Shoes,Karnataka,1,30084,5,28579.8,21182.06,7397.74,4.6,Debit Card,Cancelled
+ORD10025,2025-01-09,Beauty,Shampoo,Karnataka,2,3874,10,6973.2,4918.6,2054.6,4.3,UPI,Delivered
+ORD10026,2025-01-10,Beauty,Face Wash,West Bengal,3,23771,10,64181.7,41942.61,22239.09,3.9,Debit Card,Cancelled
+ORD10027,2025-01-10,Home & Kitchen,Mixer,Gujarat,1,30792,15,26173.2,19154.84,7018.36,4.3,Cash on Delivery,Delivered
+ORD10028,2025-01-10,Sports,Football,Maharashtra,3,47515,10,128290.5,111486.39,16804.11,4.2,Credit Card,Delivered
+ORD10029,2025-01-11,Home & Kitchen,Lamp,Delhi,1,26396,10,23756.4,18811.18,4945.22,3.1,Credit Card,Cancelled
+ORD10030,2025-01-11,Home & Kitchen,Cookware Set,Gujarat,4,17300,10,62280.0,45122.34,17157.66,3.9,UPI,Delivered
+ORD10031,2025-01-11,Home & Kitchen,Cookware Set,Karnataka,3,27900,0,83700.0,63886.09,19813.91,4.4,Credit Card,Delivered
+ORD10032,2025-01-12,Fashion,T-Shirt,Gujarat,2,9067,10,16320.6,10289.3,6031.3,3.3,Net Banking,Delivered
+ORD10033,2025-01-12,Electronics,Smartphone,Tamil Nadu,3,4762,5,13571.7,8836.61,4735.09,4.1,Cash on Delivery,Delivered
+ORD10034,2025-01-13,Home & Kitchen,Cookware Set,Karnataka,1,33985,10,30586.5,20803.17,9783.33,3.7,UPI,Delivered
+ORD10035,2025-01-13,Sports,Cricket Bat,Telangana,1,49312,0,49312.0,40240.98,9071.02,3.8,Debit Card,Returned
+ORD10036,2025-01-13,Electronics,Smartphone,Gujarat,4,42338,15,143949.2,125429.99,18519.21,2.7,UPI,Cancelled
+ORD10037,2025-01-14,Sports,Running Shoes,West Bengal,4,29287,20,93718.4,83971.94,9746.46,4.2,Debit Card,Cancelled
+ORD10038,2025-01-14,Sports,Cricket Bat,Maharashtra,1,2252,0,2252.0,1241.63,1010.37,4.7,UPI,Delivered
+ORD10039,2025-01-14,Fashion,Jeans,Delhi,2,49401,10,88921.8,59257.85,29663.95,2.9,Cash on Delivery,Delivered
+ORD10040,2025-01-15,Beauty,Shampoo,Telangana,1,22619,15,19226.15,16321.78,2904.37,3.4,Debit Card,Delivered
+ORD10041,2025-01-15,Electronics,Smartphone,West Bengal,2,14660,5,27854.0,19132.01,8721.99,2.6,Cash on Delivery,Delivered
+ORD10042,2025-01-15,Beauty,Shampoo,Karnataka,2,44651,15,75906.7,71401.92,4504.78,2.6,Debit Card,Delivered
+ORD10043,2025-01-16,Beauty,Perfume,West Bengal,2,37383,10,67289.4,56558.65,10730.75,5.0,Credit Card,Delivered
+ORD10044,2025-01-16,Fashion,Jeans,Karnataka,3,37543,20,90103.2,75550.82,14552.38,3.7,Credit Card,Returned
+ORD10045,2025-01-17,Electronics,Smartphone,Delhi,1,14068,20,11254.4,10584.33,670.07,3.4,Credit Card,Delivered
+ORD10046,2025-01-17,Sports,Cricket Bat,Delhi,4,49592,0,198368.0,161344.43,37023.57,3.2,Debit Card,Delivered
+ORD10047,2025-01-17,Home & Kitchen,Mixer,Delhi,3,22780,10,61506.0,46092.93,15413.07,5.0,Debit Card,Delivered
+ORD10048,2025-01-18,Sports,Yoga Mat,West Bengal,4,26687,10,96073.2,77230.26,18842.94,3.1,Cash on Delivery,Delivered
+ORD10049,2025-01-18,Beauty,Moisturizer,Telangana,1,37610,0,37610.0,30014.26,7595.74,4.3,UPI,Delivered
+ORD10050,2025-01-18,Beauty,Face Wash,Telangana,3,33084,5,94289.4,61252.59,33036.81,3.2,Credit Card,Delivered
+ORD10051,2025-01-19,Beauty,Moisturizer,Karnataka,4,8821,20,28227.2,27852.15,375.05,2.7,Net Banking,Delivered
+ORD10052,2025-01-19,Electronics,Headphones,West Bengal,1,15298,0,15298.0,8816.8,6481.2,4.2,Net Banking,Delivered
+ORD10053,2025-01-19,Fashion,Shoes,Gujarat,4,18218,10,65584.8,52838.1,12746.7,2.5,Net Banking,Delivered
+ORD10054,2025-01-20,Home & Kitchen,Bedsheet,Tamil Nadu,2,47389,15,80561.3,72160.78,8400.52,4.2,Credit Card,Delivered
+ORD10055,2025-01-20,Home & Kitchen,Mixer,Tamil Nadu,4,35796,5,136024.8,102511.68,33513.12,3.1,UPI,Delivered
+ORD10056,2025-01-21,Electronics,Smartwatch,Tamil Nadu,2,18475,10,33255.0,25266.2,7988.8,4.4,UPI,Delivered
+ORD10057,2025-01-21,Home & Kitchen,Cookware Set,Tamil Nadu,4,36802,20,117766.4,105501.58,12264.82,4.4,UPI,Delivered
+ORD10058,2025-01-21,Electronics,Smartwatch,Gujarat,1,36990,10,33291.0,21859.21,11431.79,4.3,Net Banking,Delivered
+ORD10059,2025-01-22,Beauty,Perfume,Tamil Nadu,2,19862,0,39724.0,24160.3,15563.7,2.6,Net Banking,Delivered
+ORD10060,2025-01-22,Beauty,Perfume,West Bengal,2,20306,0,40612.0,25296.11,15315.89,4.3,Net Banking,Cancelled
+ORD10061,2025-01-22,Sports,Running Shoes,Delhi,1,44741,20,35792.8,31828.77,3964.03,5.0,Cash on Delivery,Delivered
+ORD10062,2025-01-23,Beauty,Moisturizer,Gujarat,2,28200,5,53580.0,37749.27,15830.73,3.1,Credit Card,Delivered
+ORD10063,2025-01-23,Fashion,T-Shirt,Karnataka,2,7688,10,13838.4,9471.75,4366.65,3.2,Debit Card,Delivered
+ORD10064,2025-01-23,Sports,Yoga Mat,Delhi,1,36059,0,36059.0,28427.42,7631.58,4.5,Net Banking,Delivered
+ORD10065,2025-01-24,Home & Kitchen,Bedsheet,Telangana,3,29581,10,79868.7,57768.05,22100.65,2.9,Net Banking,Delivered
+ORD10066,2025-01-24,Fashion,Jeans,Tamil Nadu,3,25569,20,61365.6,51426.56,9939.04,4.2,Debit Card,Cancelled
+ORD10067,2025-01-25,Sports,Running Shoes,Karnataka,4,36323,10,130762.8,95982.7,34780.1,4.4,Net Banking,Delivered
+ORD10068,2025-01-25,Fashion,Shoes,Gujarat,3,45377,20,108904.8,81559.43,27345.37,2.6,Credit Card,Delivered
+ORD10069,2025-01-25,Electronics,Headphones,Telangana,1,16689,5,15854.55,12475.68,3378.87,3.9,Debit Card,Delivered
+ORD10070,2025-01-26,Home & Kitchen,Mixer,Maharashtra,1,21110,10,18999.0,14166.58,4832.42,3.9,Net Banking,Delivered
+ORD10071,2025-01-26,Beauty,Moisturizer,Maharashtra,2,9677,20,15483.2,10729.65,4753.55,3.3,Credit Card,Cancelled
+ORD10072,2025-01-26,Electronics,Laptop,Delhi,2,32441,10,58393.8,52572.83,5820.97,4.7,Cash on Delivery,Delivered
+ORD10073,2025-01-27,Home & Kitchen,Bedsheet,Tamil Nadu,1,20285,5,19270.75,15624.65,3646.1,2.9,Debit Card,Delivered
+ORD10074,2025-01-27,Electronics,Smartphone,Delhi,4,17282,20,55302.4,51525.32,3777.08,3.4,Credit Card,Delivered
+ORD10075,2025-01-27,Beauty,Perfume,Telangana,3,34902,10,94235.4,82158.07,12077.33,4.6,Credit Card,Delivered
+ORD10076,2025-01-28,Home & Kitchen,Mixer,Telangana,3,20555,10,55498.5,49013.68,6484.82,3.0,Cash on Delivery,Delivered
+ORD10077,2025-01-28,Fashion,Shoes,Gujarat,1,23352,20,18681.6,14971.49,3710.11,4.6,Debit Card,Delivered
+ORD10078,2025-01-29,Fashion,T-Shirt,Delhi,4,22142,5,84139.6,63322.47,20817.13,2.7,Credit Card,Delivered
+ORD10079,2025-01-29,Home & Kitchen,Cookware Set,Maharashtra,1,13112,5,12456.4,9366.93,3089.47,3.7,Cash on Delivery,Delivered
+ORD10080,2025-01-29,Beauty,Shampoo,Telangana,2,6508,0,13016.0,8098.18,4917.82,2.7,UPI,Cancelled
+ORD10081,2025-01-30,Sports,Running Shoes,West Bengal,2,41404,10,74527.2,50506.84,24020.36,4.2,UPI,Delivered
+ORD10082,2025-01-30,Home & Kitchen,Bedsheet,Gujarat,4,4813,5,18289.4,11180.69,7108.71,4.5,Net Banking,Delivered
+ORD10083,2025-01-30,Electronics,Smartwatch,Gujarat,2,16412,15,27900.4,23896.36,4004.04,4.6,Cash on Delivery,Delivered
+ORD10084,2025-01-31,Sports,Yoga Mat,Telangana,1,33457,5,31784.15,25455.7,6328.45,5.0,Debit Card,Delivered
+ORD10085,2025-01-31,Beauty,Face Wash,Tamil Nadu,2,6781,15,11527.7,10245.51,1282.19,4.2,UPI,Delivered
+ORD10086,2025-01-31,Beauty,Shampoo,Maharashtra,2,32862,5,62437.8,41760.66,20677.14,4.4,Debit Card,Delivered
+ORD10087,2025-02-01,Electronics,Smartwatch,Tamil Nadu,1,36720,10,33048.0,22231.03,10816.97,3.8,Debit Card,Delivered
+ORD10088,2025-02-01,Fashion,Jacket,West Bengal,1,33229,5,31567.55,22345.7,9221.85,4.8,Debit Card,Delivered
+ORD10089,2025-02-02,Beauty,Moisturizer,Telangana,1,15425,15,13111.25,10761.09,2350.16,4.1,UPI,Delivered
+ORD10090,2025-02-02,Sports,Cricket Bat,Gujarat,2,1233,10,2219.4,1968.25,251.15,4.7,Debit Card,Delivered
+ORD10091,2025-02-02,Home & Kitchen,Lamp,Gujarat,2,44395,10,79911.0,69806.9,10104.1,3.1,Debit Card,Delivered
+ORD10092,2025-02-03,Sports,Football,Karnataka,2,16495,20,26392.0,26304.11,87.89,3.7,Credit Card,Delivered
+ORD10093,2025-02-03,Sports,Running Shoes,Tamil Nadu,3,40299,10,108807.3,94247.78,14559.52,4.3,UPI,Delivered
+ORD10094,2025-02-03,Fashion,Jeans,Karnataka,1,10091,5,9586.45,8178.12,1408.33,3.0,Net Banking,Delivered
+ORD10095,2025-02-04,Sports,Football,Delhi,4,8329,20,26652.8,22511.12,4141.68,3.0,Cash on Delivery,Returned
+ORD10096,2025-02-04,Fashion,T-Shirt,Karnataka,4,38963,5,148059.4,87716.29,60343.11,4.9,Cash on Delivery,Delivered
+ORD10097,2025-02-04,Fashion,Jacket,Delhi,1,47001,0,47001.0,26910.97,20090.03,3.6,Cash on Delivery,Delivered
+ORD10098,2025-02-05,Beauty,Shampoo,Delhi,2,43066,10,77518.8,56448.72,21070.08,3.0,Cash on Delivery,Delivered
+ORD10099,2025-02-05,Beauty,Face Wash,Maharashtra,1,37624,0,37624.0,23310.91,14313.09,3.3,UPI,Delivered
+ORD10100,2025-02-06,Electronics,Headphones,Telangana,2,12522,5,23791.8,14923.32,8868.48,3.5,Debit Card,Delivered
+ORD10101,2025-02-06,Sports,Football,Gujarat,2,45682,15,77659.4,73764.1,3895.3,4.1,Net Banking,Delivered
+ORD10102,2025-02-06,Electronics,Headphones,West Bengal,1,33475,0,33475.0,20177.5,13297.5,4.8,Credit Card,Delivered
+ORD10103,2025-02-07,Sports,Running Shoes,Karnataka,1,8815,15,7492.75,7131.62,361.13,5.0,Net Banking,Delivered
+ORD10104,2025-02-07,Electronics,Laptop,Tamil Nadu,2,6685,20,10696.0,10100.05,595.95,4.1,UPI,Delivered
+ORD10105,2025-02-07,Beauty,Perfume,Karnataka,3,43590,10,117693.0,94553.95,23139.05,4.2,Credit Card,Delivered
+ORD10106,2025-02-08,Beauty,Face Wash,Gujarat,2,13938,15,23694.6,20419.87,3274.73,3.3,Credit Card,Returned
+ORD10107,2025-02-08,Beauty,Face Wash,Gujarat,4,38353,15,130400.2,98106.68,32293.52,4.6,Cash on Delivery,Returned
+ORD10108,2025-02-08,Beauty,Shampoo,Gujarat,2,7148,20,11436.8,10357.96,1078.84,3.0,UPI,Delivered
+ORD10109,2025-02-09,Home & Kitchen,Bedsheet,Tamil Nadu,4,14206,5,53982.8,34117.52,19865.28,2.8,Credit Card,Delivered
+ORD10110,2025-02-09,Beauty,Face Wash,Telangana,1,14355,5,13637.25,11529.66,2107.59,4.9,Cash on Delivery,Delivered
+ORD10111,2025-02-10,Fashion,Shoes,Delhi,3,14234,10,38431.8,26965.64,11466.16,4.7,Credit Card,Delivered
+ORD10112,2025-02-10,Beauty,Face Wash,Telangana,4,33818,10,121744.8,83719.89,38024.91,3.3,Net Banking,Delivered
+ORD10113,2025-02-10,Home & Kitchen,Mixer,Karnataka,1,45740,5,43453.0,33939.72,9513.28,4.2,Net Banking,Delivered
+ORD10114,2025-02-11,Home & Kitchen,Cookware Set,Delhi,4,45538,10,163936.8,132468.43,31468.37,3.7,Credit Card,Returned
+ORD10115,2025-02-11,Home & Kitchen,Mixer,Delhi,2,37142,0,74284.0,49907.76,24376.24,3.3,Debit Card,Delivered
+ORD10116,2025-02-11,Home & Kitchen,Cookware Set,West Bengal,2,10325,20,16520.0,14883.7,1636.3,3.2,Credit Card,Delivered
+ORD10117,2025-02-12,Electronics,Smartwatch,Maharashtra,3,48038,5,136908.3,85468.7,51439.6,2.8,Credit Card,Delivered
+ORD10118,2025-02-12,Electronics,Smartphone,Delhi,3,27218,0,81654.0,59754.29,21899.71,3.9,Cash on Delivery,Delivered
+ORD10119,2025-02-12,Fashion,Shoes,Delhi,1,27411,0,27411.0,17078.83,10332.17,3.6,Credit Card,Cancelled
+ORD10120,2025-02-13,Electronics,Headphones,Telangana,4,35144,5,133547.2,87672.43,45874.77,3.8,UPI,Delivered
+ORD10121,2025-02-13,Home & Kitchen,Mixer,Gujarat,3,38512,5,109759.2,68603.96,41155.24,3.0,Credit Card,Delivered
+ORD10122,2025-02-14,Beauty,Face Wash,West Bengal,4,47657,0,190628.0,121952.7,68675.3,4.8,Net Banking,Delivered
+ORD10123,2025-02-14,Beauty,Perfume,Telangana,2,29223,5,55523.7,37372.58,18151.12,4.1,Credit Card,Delivered
+ORD10124,2025-02-14,Home & Kitchen,Mixer,Tamil Nadu,3,30600,5,87210.0,61747.28,25462.72,4.7,Credit Card,Delivered
+ORD10125,2025-02-15,Sports,Running Shoes,Telangana,2,37340,10,67212.0,44913.54,22298.46,2.8,Cash on Delivery,Delivered
+ORD10126,2025-02-15,Home & Kitchen,Bedsheet,Karnataka,4,12941,10,46587.6,31167.73,15419.87,4.1,UPI,Delivered
+ORD10127,2025-02-15,Electronics,Smartwatch,Gujarat,4,15558,5,59120.4,43330.24,15790.16,4.6,Credit Card,Delivered
+ORD10128,2025-02-16,Beauty,Moisturizer,Tamil Nadu,4,31367,5,119194.6,73373.3,45821.3,3.3,UPI,Delivered
+ORD10129,2025-02-16,Home & Kitchen,Lamp,Karnataka,3,3440,0,10320.0,7595.54,2724.46,3.0,Net Banking,Delivered
+ORD10130,2025-02-17,Beauty,Moisturizer,Maharashtra,4,16194,0,64776.0,52135.98,12640.02,3.2,Net Banking,Delivered
+ORD10131,2025-02-17,Home & Kitchen,Cookware Set,Maharashtra,2,35970,5,68343.0,47856.99,20486.01,3.2,Cash on Delivery,Delivered
+ORD10132,2025-02-17,Home & Kitchen,Lamp,Telangana,2,48812,15,82980.4,77444.97,5535.43,3.6,Credit Card,Delivered
+ORD10133,2025-02-18,Electronics,Smartwatch,Tamil Nadu,4,26094,20,83500.8,60177.51,23323.29,3.3,Cash on Delivery,Delivered
+ORD10134,2025-02-18,Home & Kitchen,Bedsheet,Karnataka,1,20133,20,16106.4,11306.66,4799.74,3.2,Cash on Delivery,Delivered
+ORD10135,2025-02-18,Beauty,Moisturizer,Telangana,3,22158,10,59826.6,49507.81,10318.79,4.1,Net Banking,Delivered
+ORD10136,2025-02-19,Fashion,T-Shirt,Tamil Nadu,1,34350,10,30915.0,25950.59,4964.41,2.6,UPI,Delivered
+ORD10137,2025-02-19,Beauty,Moisturizer,Telangana,3,27337,5,77910.45,63773.86,14136.59,3.4,Cash on Delivery,Returned
+ORD10138,2025-02-19,Electronics,Headphones,West Bengal,2,1405,15,2388.5,1588.61,799.89,4.2,UPI,Delivered
+ORD10139,2025-02-20,Fashion,Shoes,West Bengal,2,27077,15,46030.9,41144.31,4886.59,2.9,Debit Card,Delivered
+ORD10140,2025-02-20,Home & Kitchen,Lamp,Karnataka,2,20153,15,34260.1,26266.03,7994.07,3.1,Net Banking,Delivered
+ORD10141,2025-02-21,Sports,Running Shoes,Telangana,2,35114,20,56182.4,44377.15,11805.25,3.0,UPI,Delivered
+ORD10142,2025-02-21,Fashion,Jeans,Delhi,2,43786,10,78814.8,52255.65,26559.15,2.5,UPI,Delivered
+ORD10143,2025-02-21,Fashion,Jacket,Delhi,2,48131,15,81822.7,78831.29,2991.41,3.7,Net Banking,Delivered
+ORD10144,2025-02-22,Home & Kitchen,Bedsheet,Tamil Nadu,3,30608,15,78050.4,52081.58,25968.82,2.6,UPI,Delivered
+ORD10145,2025-02-22,Sports,Football,Tamil Nadu,4,18287,5,69490.6,56564.78,12925.82,3.2,Cash on Delivery,Delivered
+ORD10146,2025-02-22,Sports,Football,Delhi,3,22336,20,53606.4,48424.24,5182.16,5.0,Debit Card,Delivered
+ORD10147,2025-02-23,Electronics,Smartphone,West Bengal,3,9028,0,27084.0,20271.61,6812.39,4.8,Credit Card,Delivered
+ORD10148,2025-02-23,Fashion,Jacket,Karnataka,4,46812,20,149798.4,138968.65,10829.75,3.0,Net Banking,Delivered
+ORD10149,2025-02-23,Sports,Yoga Mat,Maharashtra,4,42403,15,144170.2,132598.81,11571.39,3.3,Net Banking,Cancelled
+ORD10150,2025-02-24,Electronics,Smartwatch,Maharashtra,1,42735,0,42735.0,25624.93,17110.07,3.7,Credit Card,Delivered
+ORD10151,2025-02-24,Sports,Football,Telangana,3,16574,15,42263.7,27358.17,14905.53,4.6,UPI,Delivered
+ORD10152,2025-02-25,Fashion,Shoes,Delhi,1,16280,0,16280.0,11584.89,4695.11,4.5,UPI,Delivered
+ORD10153,2025-02-25,Sports,Football,Gujarat,1,42866,15,36436.1,27671.8,8764.3,2.8,UPI,Delivered
+ORD10154,2025-02-25,Fashion,Jacket,Tamil Nadu,4,27341,15,92959.4,63805.43,29153.97,2.8,Net Banking,Delivered
+ORD10155,2025-02-26,Home & Kitchen,Cookware Set,Gujarat,1,35306,10,31775.4,21192.69,10582.71,3.5,Debit Card,Delivered
+ORD10156,2025-02-26,Beauty,Moisturizer,Tamil Nadu,4,24618,20,78777.6,62979.96,15797.64,4.7,Cash on Delivery,Delivered
+ORD10157,2025-02-26,Electronics,Laptop,Maharashtra,4,22277,0,89108.0,50699.16,38408.84,4.7,Credit Card,Delivered
+ORD10158,2025-02-27,Home & Kitchen,Bedsheet,Karnataka,4,31702,5,120467.6,71693.0,48774.6,2.8,Net Banking,Delivered
+ORD10159,2025-02-27,Home & Kitchen,Cookware Set,West Bengal,3,40695,10,109876.5,97341.68,12534.82,3.9,Cash on Delivery,Delivered
+ORD10160,2025-02-27,Beauty,Perfume,Gujarat,4,16872,0,67488.0,42805.46,24682.54,2.9,Cash on Delivery,Returned
+ORD10161,2025-02-28,Sports,Yoga Mat,Karnataka,1,40504,10,36453.6,33018.95,3434.65,4.2,Debit Card,Delivered
+ORD10162,2025-02-28,Beauty,Perfume,Delhi,4,12399,5,47116.2,40191.56,6924.64,4.8,Cash on Delivery,Delivered
+ORD10163,2025-03-01,Home & Kitchen,Bedsheet,Delhi,1,20290,10,18261.0,11940.55,6320.45,3.6,Debit Card,Delivered
+ORD10164,2025-03-01,Home & Kitchen,Lamp,Karnataka,2,45655,10,82179.0,67846.03,14332.97,2.7,Credit Card,Delivered
+ORD10165,2025-03-01,Home & Kitchen,Lamp,Delhi,1,47734,20,38187.2,33996.98,4190.22,3.9,Debit Card,Cancelled
+ORD10166,2025-03-02,Sports,Cricket Bat,Telangana,2,46212,5,87802.8,68067.94,19734.86,3.5,Credit Card,Delivered
+ORD10167,2025-03-02,Fashion,T-Shirt,Maharashtra,3,15973,20,38335.2,27599.98,10735.22,4.5,Net Banking,Delivered
+ORD10168,2025-03-02,Electronics,Headphones,Delhi,2,42205,10,75969.0,50722.92,25246.08,3.4,Cash on Delivery,Delivered
+ORD10169,2025-03-03,Fashion,Jacket,Gujarat,4,46820,5,177916.0,106879.28,71036.72,4.7,Cash on Delivery,Delivered
+ORD10170,2025-03-03,Electronics,Smartwatch,Gujarat,3,48915,10,132070.5,104646.24,27424.26,3.2,Cash on Delivery,Delivered
+ORD10171,2025-03-03,Electronics,Smartphone,West Bengal,3,1289,10,3480.3,3156.94,323.36,2.9,Debit Card,Returned
+ORD10172,2025-03-04,Electronics,Smartphone,West Bengal,4,37313,5,141789.4,109168.26,32621.14,3.3,Net Banking,Delivered
+ORD10173,2025-03-04,Beauty,Perfume,Delhi,2,49838,10,89708.4,73950.18,15758.22,2.6,Credit Card,Delivered
+ORD10174,2025-03-05,Beauty,Face Wash,Gujarat,2,38292,5,72754.8,62480.13,10274.67,3.2,Debit Card,Delivered
+ORD10175,2025-03-05,Beauty,Face Wash,Maharashtra,4,11850,10,42660.0,34747.19,7912.81,4.2,UPI,Delivered
+ORD10176,2025-03-05,Home & Kitchen,Cookware Set,Tamil Nadu,3,38188,10,103107.6,64253.11,38854.49,2.9,Credit Card,Returned
+ORD10177,2025-03-06,Beauty,Perfume,Karnataka,3,5485,10,14809.5,12902.23,1907.27,2.8,Debit Card,Delivered
+ORD10178,2025-03-06,Electronics,Laptop,Maharashtra,2,24160,15,41072.0,31333.74,9738.26,2.8,Debit Card,Delivered
+ORD10179,2025-03-06,Sports,Football,Tamil Nadu,1,31404,5,29833.8,17309.2,12524.6,2.7,Net Banking,Delivered
+ORD10180,2025-03-07,Home & Kitchen,Mixer,Karnataka,1,22958,20,18366.4,15771.07,2595.33,4.7,Cash on Delivery,Delivered
+ORD10181,2025-03-07,Sports,Yoga Mat,Gujarat,1,35066,15,29806.1,28157.79,1648.31,4.9,Debit Card,Delivered
+ORD10182,2025-03-07,Electronics,Smartwatch,Maharashtra,1,12201,20,9760.8,7558.27,2202.53,2.6,Debit Card,Delivered
+ORD10183,2025-03-08,Home & Kitchen,Lamp,Telangana,3,30409,15,77542.95,62281.45,15261.5,4.4,Cash on Delivery,Delivered
+ORD10184,2025-03-08,Beauty,Perfume,Telangana,1,32329,0,32329.0,19297.82,13031.18,4.3,Cash on Delivery,Delivered
+ORD10185,2025-03-09,Home & Kitchen,Cookware Set,Tamil Nadu,3,31781,10,85808.7,53923.81,31884.89,5.0,Credit Card,Delivered
+ORD10186,2025-03-09,Home & Kitchen,Cookware Set,Telangana,4,14643,5,55643.4,33488.37,22155.03,3.4,Debit Card,Delivered
+ORD10187,2025-03-09,Electronics,Laptop,Gujarat,4,15442,15,52502.8,46097.02,6405.78,3.2,Debit Card,Delivered
+ORD10188,2025-03-10,Fashion,Shoes,Karnataka,2,13075,10,23535.0,20483.3,3051.7,3.6,UPI,Delivered
+ORD10189,2025-03-10,Fashion,Shoes,Karnataka,1,23223,5,22061.85,13671.16,8390.69,4.6,Net Banking,Delivered
+ORD10190,2025-03-10,Fashion,T-Shirt,Karnataka,4,29401,20,94083.2,73837.2,20246.0,4.3,Debit Card,Delivered
+ORD10191,2025-03-11,Beauty,Perfume,Karnataka,1,18286,0,18286.0,11020.2,7265.8,3.7,Credit Card,Delivered
+ORD10192,2025-03-11,Beauty,Perfume,Delhi,3,20646,10,55744.2,34515.02,21229.18,3.1,Cash on Delivery,Delivered
+ORD10193,2025-03-11,Beauty,Face Wash,Karnataka,3,14498,15,36969.9,30420.85,6549.05,4.3,Cash on Delivery,Delivered
+ORD10194,2025-03-12,Fashion,Shoes,Tamil Nadu,1,11138,0,11138.0,8230.75,2907.25,4.6,Net Banking,Delivered
+ORD10195,2025-03-12,Sports,Yoga Mat,Karnataka,3,32957,10,88983.9,71674.25,17309.65,3.5,UPI,Delivered
+ORD10196,2025-03-13,Electronics,Smartphone,Tamil Nadu,1,40848,15,34720.8,26746.23,7974.57,4.2,Debit Card,Delivered
+ORD10197,2025-03-13,Fashion,Shoes,Delhi,1,14712,0,14712.0,10296.23,4415.77,3.5,UPI,Delivered
+ORD10198,2025-03-13,Electronics,Smartwatch,Tamil Nadu,4,43063,10,155026.8,99114.97,55911.83,3.7,Debit Card,Delivered
+ORD10199,2025-03-14,Fashion,Jacket,Gujarat,4,28656,5,108892.8,67818.67,41074.13,3.8,Debit Card,Delivered
+ORD10200,2025-03-14,Sports,Yoga Mat,West Bengal,2,8593,15,14608.1,13776.03,832.07,4.4,Debit Card,Returned
+ORD10201,2025-03-14,Fashion,Jacket,Gujarat,4,18458,0,73832.0,55787.98,18044.02,4.9,Net Banking,Delivered
+ORD10202,2025-03-15,Sports,Football,Delhi,4,623,20,1993.6,1991.46,2.14,3.6,Debit Card,Delivered
+ORD10203,2025-03-15,Home & Kitchen,Bedsheet,Tamil Nadu,4,2198,20,7033.6,7011.65,21.95,3.4,Debit Card,Delivered
+ORD10204,2025-03-15,Beauty,Shampoo,Tamil Nadu,1,16972,5,16123.4,12310.4,3813.0,3.4,UPI,Delivered
+ORD10205,2025-03-16,Home & Kitchen,Lamp,Gujarat,2,22859,5,43432.1,36602.95,6829.15,2.8,Credit Card,Delivered
+ORD10206,2025-03-16,Fashion,Jacket,Gujarat,3,39926,10,107800.2,79354.14,28446.06,3.2,Net Banking,Delivered
+ORD10207,2025-03-17,Beauty,Moisturizer,Gujarat,4,6931,15,23565.4,15275.27,8290.13,2.7,Debit Card,Delivered
+ORD10208,2025-03-17,Sports,Yoga Mat,Delhi,4,41998,10,151192.8,95233.69,55959.11,3.6,Net Banking,Delivered
+ORD10209,2025-03-17,Fashion,Jeans,Delhi,2,11917,5,22642.3,13813.27,8829.03,2.9,Debit Card,Delivered
+ORD10210,2025-03-18,Beauty,Shampoo,West Bengal,1,7131,0,7131.0,4105.64,3025.36,3.4,Debit Card,Delivered
+ORD10211,2025-03-18,Fashion,Shoes,Tamil Nadu,4,35069,20,112220.8,90472.36,21748.44,4.5,Debit Card,Delivered
+ORD10212,2025-03-18,Beauty,Shampoo,Maharashtra,2,38773,10,69791.4,57333.1,12458.3,3.1,Debit Card,Delivered
+ORD10213,2025-03-19,Beauty,Perfume,West Bengal,2,30344,20,48550.4,46333.78,2216.62,4.0,UPI,Delivered
+ORD10214,2025-03-19,Home & Kitchen,Bedsheet,Tamil Nadu,4,6006,10,21621.6,17041.61,4579.99,4.8,UPI,Delivered
+ORD10215,2025-03-19,Beauty,Face Wash,Maharashtra,3,5988,20,14371.2,10590.46,3780.74,3.9,Debit Card,Delivered
+ORD10216,2025-03-20,Fashion,T-Shirt,Telangana,2,19655,0,39310.0,29558.5,9751.5,3.0,Debit Card,Delivered
+ORD10217,2025-03-20,Electronics,Smartphone,Tamil Nadu,1,22667,0,22667.0,14638.27,8028.73,3.4,Debit Card,Delivered
+ORD10218,2025-03-21,Electronics,Smartphone,West Bengal,2,49930,20,79888.0,55273.33,24614.67,4.0,Debit Card,Delivered
+ORD10219,2025-03-21,Home & Kitchen,Bedsheet,Gujarat,4,14502,20,46406.4,36299.02,10107.38,3.8,Credit Card,Delivered
+ORD10220,2025-03-21,Sports,Football,Gujarat,2,9831,5,18678.9,12569.17,6109.73,2.9,Cash on Delivery,Delivered
+ORD10221,2025-03-22,Electronics,Smartphone,Delhi,3,47308,10,127731.6,88567.15,39164.45,3.6,Cash on Delivery,Delivered
+ORD10222,2025-03-22,Home & Kitchen,Lamp,Delhi,2,7909,10,14236.2,12167.28,2068.92,3.9,UPI,Delivered
+ORD10223,2025-03-22,Beauty,Shampoo,Tamil Nadu,4,1563,10,5626.8,4721.39,905.41,3.2,Debit Card,Delivered
+ORD10224,2025-03-23,Fashion,Shoes,Telangana,4,21284,5,80879.2,62813.26,18065.94,4.0,Cash on Delivery,Delivered
+ORD10225,2025-03-23,Beauty,Perfume,West Bengal,3,20203,20,48487.2,35609.69,12877.51,2.7,Cash on Delivery,Delivered
+ORD10226,2025-03-23,Fashion,Jacket,Telangana,4,31078,5,118096.4,95485.93,22610.47,3.3,Credit Card,Delivered
+ORD10227,2025-03-24,Sports,Cricket Bat,Tamil Nadu,3,43917,15,111988.35,96552.07,15436.28,4.5,Net Banking,Delivered
+ORD10228,2025-03-24,Home & Kitchen,Bedsheet,Gujarat,2,46661,0,93322.0,56236.41,37085.59,3.1,Cash on Delivery,Delivered
+ORD10229,2025-03-25,Home & Kitchen,Mixer,Delhi,3,14659,0,43977.0,31882.68,12094.32,4.0,Debit Card,Delivered
+ORD10230,2025-03-25,Electronics,Headphones,Telangana,4,49045,15,166753.0,133509.93,33243.07,3.5,Cash on Delivery,Delivered
+ORD10231,2025-03-25,Home & Kitchen,Bedsheet,Delhi,4,31724,5,120551.2,84845.78,35705.42,3.3,Net Banking,Cancelled
+ORD10232,2025-03-26,Sports,Yoga Mat,Karnataka,1,3714,15,3156.9,2155.13,1001.77,4.8,Credit Card,Delivered
+ORD10233,2025-03-26,Electronics,Smartwatch,West Bengal,3,46937,0,140811.0,97151.44,43659.56,3.4,UPI,Delivered
+ORD10234,2025-03-26,Beauty,Moisturizer,Tamil Nadu,1,7115,20,5692.0,4105.22,1586.78,3.1,Debit Card,Delivered
+ORD10235,2025-03-27,Home & Kitchen,Lamp,Delhi,3,29532,15,75306.6,52656.89,22649.71,4.8,UPI,Delivered
+ORD10236,2025-03-27,Beauty,Perfume,West Bengal,3,39589,20,95013.6,69572.22,25441.38,4.4,Net Banking,Delivered
+ORD10237,2025-03-27,Beauty,Face Wash,West Bengal,2,12659,0,25318.0,20447.05,4870.95,4.2,Net Banking,Delivered
+ORD10238,2025-03-28,Home & Kitchen,Mixer,Delhi,4,13713,5,52109.4,34387.46,17721.94,2.6,Cash on Delivery,Delivered
+ORD10239,2025-03-28,Fashion,Jeans,Gujarat,4,23939,10,86180.4,61849.3,24331.1,2.8,Net Banking,Delivered
+ORD10240,2025-03-29,Beauty,Face Wash,Gujarat,1,44271,10,39843.9,28198.93,11644.97,4.1,UPI,Delivered
+ORD10241,2025-03-29,Electronics,Smartphone,Tamil Nadu,1,11374,5,10805.3,9014.21,1791.09,3.0,Cash on Delivery,Delivered
+ORD10242,2025-03-29,Home & Kitchen,Bedsheet,West Bengal,1,33256,0,33256.0,23345.74,9910.26,3.1,Debit Card,Delivered
+ORD10243,2025-03-30,Electronics,Smartwatch,Gujarat,4,22766,10,81957.6,72684.84,9272.76,4.4,Credit Card,Delivered
+ORD10244,2025-03-30,Beauty,Perfume,Telangana,3,5814,5,16569.9,11005.55,5564.35,3.2,Credit Card,Delivered
+ORD10245,2025-03-30,Beauty,Shampoo,Tamil Nadu,3,35616,10,96163.2,62079.26,34083.94,2.7,Debit Card,Delivered
+ORD10246,2025-03-31,Electronics,Smartwatch,West Bengal,4,41668,5,158338.4,116700.23,41638.17,2.6,Cash on Delivery,Delivered
+ORD10247,2025-03-31,Beauty,Shampoo,Delhi,4,28887,5,109770.6,74331.45,35439.15,3.6,UPI,Returned
+ORD10248,2025-03-31,Home & Kitchen,Cookware Set,Delhi,1,9023,10,8120.7,6916.26,1204.44,4.0,Cash on Delivery,Returned
+ORD10249,2025-04-01,Beauty,Perfume,Delhi,1,7997,10,7197.3,6297.19,900.11,4.7,Net Banking,Delivered
+ORD10250,2025-04-01,Electronics,Smartwatch,West Bengal,2,21318,5,40504.2,28889.93,11614.27,2.8,UPI,Delivered
+ORD10251,2025-04-02,Electronics,Laptop,Tamil Nadu,2,25444,10,45799.2,41334.64,4464.56,3.0,Net Banking,Delivered
+ORD10252,2025-04-02,Home & Kitchen,Cookware Set,Karnataka,3,27721,15,70688.55,58157.01,12531.54,3.8,Cash on Delivery,Delivered
+ORD10253,2025-04-02,Electronics,Laptop,Maharashtra,1,12371,10,11133.9,7708.97,3424.93,3.4,Credit Card,Delivered
+ORD10254,2025-04-03,Fashion,Jacket,Gujarat,2,25163,10,45293.4,34323.51,10969.89,3.7,Cash on Delivery,Delivered
+ORD10255,2025-04-03,Beauty,Moisturizer,Telangana,1,14930,20,11944.0,8361.9,3582.1,4.8,Cash on Delivery,Cancelled
+ORD10256,2025-04-03,Electronics,Laptop,Gujarat,1,34386,10,30947.4,26376.82,4570.58,3.9,Cash on Delivery,Cancelled
+ORD10257,2025-04-04,Beauty,Face Wash,Gujarat,1,39874,20,31899.2,23022.75,8876.45,3.5,UPI,Delivered
+ORD10258,2025-04-04,Electronics,Smartphone,Telangana,1,32721,15,27812.85,20724.24,7088.61,5.0,UPI,Delivered
+ORD10259,2025-04-05,Electronics,Smartphone,Gujarat,3,312,0,936.0,657.67,278.33,2.7,Cash on Delivery,Delivered
+ORD10260,2025-04-05,Home & Kitchen,Bedsheet,West Bengal,2,49604,10,89287.2,55715.54,33571.66,4.8,Credit Card,Delivered
+ORD10261,2025-04-05,Beauty,Perfume,Tamil Nadu,2,1432,15,2434.4,1636.53,797.87,3.8,Credit Card,Cancelled
+ORD10262,2025-04-06,Electronics,Smartwatch,Telangana,2,49971,20,79953.6,73752.34,6201.26,3.8,Debit Card,Delivered
+ORD10263,2025-04-06,Fashion,Jeans,Telangana,3,1830,10,4941.0,3125.9,1815.1,4.8,Cash on Delivery,Delivered
+ORD10264,2025-04-06,Sports,Running Shoes,Tamil Nadu,4,25943,0,103772.0,70441.72,33330.28,3.8,UPI,Delivered
+ORD10265,2025-04-07,Sports,Cricket Bat,Maharashtra,3,5522,10,14909.4,10626.22,4283.18,3.6,Net Banking,Delivered
+ORD10266,2025-04-07,Home & Kitchen,Mixer,Delhi,3,4986,0,14958.0,9148.04,5809.96,3.2,Debit Card,Delivered
+ORD10267,2025-04-07,Home & Kitchen,Mixer,Maharashtra,3,34248,15,87332.4,61746.09,25586.31,4.1,UPI,Delivered
+ORD10268,2025-04-08,Fashion,Jeans,Gujarat,3,36460,10,98442.0,82704.52,15737.48,3.9,UPI,Delivered
+ORD10269,2025-04-08,Beauty,Shampoo,Karnataka,1,6132,15,5212.2,4948.01,264.19,3.0,Net Banking,Delivered
+ORD10270,2025-04-09,Home & Kitchen,Mixer,Gujarat,4,48839,20,156284.8,114839.74,41445.06,4.3,UPI,Delivered
+ORD10271,2025-04-09,Fashion,Jeans,Delhi,1,16192,10,14572.8,13101.17,1471.63,4.1,Debit Card,Delivered
+ORD10272,2025-04-09,Electronics,Laptop,Maharashtra,2,16086,10,28954.8,22860.97,6093.83,3.5,Cash on Delivery,Delivered
+ORD10273,2025-04-10,Electronics,Smartwatch,Maharashtra,3,15024,15,38311.2,32598.25,5712.95,2.5,Debit Card,Delivered
+ORD10274,2025-04-10,Sports,Yoga Mat,Gujarat,2,23195,15,39431.5,34406.54,5024.96,3.6,Credit Card,Delivered
+ORD10275,2025-04-10,Home & Kitchen,Bedsheet,Maharashtra,1,9097,20,7277.6,6732.8,544.8,2.5,UPI,Delivered
+ORD10276,2025-04-11,Home & Kitchen,Lamp,Telangana,4,21382,0,85528.0,65971.94,19556.06,2.7,Cash on Delivery,Delivered
+ORD10277,2025-04-11,Home & Kitchen,Lamp,Telangana,1,10696,10,9626.4,7279.02,2347.38,3.6,Debit Card,Delivered
+ORD10278,2025-04-11,Beauty,Shampoo,Tamil Nadu,1,2808,5,2667.6,1948.77,718.83,2.7,UPI,Delivered
+ORD10279,2025-04-12,Electronics,Laptop,Karnataka,4,18594,20,59500.8,47409.74,12091.06,3.2,UPI,Delivered
+ORD10280,2025-04-12,Electronics,Smartwatch,Telangana,3,33695,10,90976.5,58469.54,32506.96,4.1,Debit Card,Delivered
+ORD10281,2025-04-13,Fashion,Shoes,Tamil Nadu,1,38213,10,34391.7,27874.58,6517.12,3.3,UPI,Delivered
+ORD10282,2025-04-13,Home & Kitchen,Lamp,Delhi,4,17828,5,67746.4,39868.73,27877.67,5.0,Credit Card,Delivered
+ORD10283,2025-04-13,Beauty,Perfume,Maharashtra,4,16356,5,62152.8,40852.15,21300.65,4.8,UPI,Delivered
+ORD10284,2025-04-14,Home & Kitchen,Bedsheet,Gujarat,1,39426,15,33512.1,22687.38,10824.72,4.0,Cash on Delivery,Delivered
+ORD10285,2025-04-14,Home & Kitchen,Cookware Set,Telangana,2,34139,5,64864.1,41068.97,23795.13,4.9,Cash on Delivery,Delivered
+ORD10286,2025-04-14,Sports,Cricket Bat,Maharashtra,2,41647,0,83294.0,60176.36,23117.64,4.7,Cash on Delivery,Delivered
+ORD10287,2025-04-15,Electronics,Smartwatch,Maharashtra,1,45328,20,36262.4,32622.05,3640.35,3.3,UPI,Delivered
+ORD10288,2025-04-15,Home & Kitchen,Mixer,Delhi,1,41106,15,34940.1,27281.43,7658.67,4.4,Credit Card,Returned
+ORD10289,2025-04-15,Home & Kitchen,Mixer,Gujarat,1,46840,5,44498.0,26902.39,17595.61,2.8,Credit Card,Delivered
+ORD10290,2025-04-16,Home & Kitchen,Lamp,Gujarat,1,20979,5,19930.05,13993.22,5936.83,4.2,Cash on Delivery,Cancelled
+ORD10291,2025-04-16,Sports,Cricket Bat,Delhi,2,19884,20,31814.4,25659.95,6154.45,3.7,Net Banking,Delivered
+ORD10292,2025-04-17,Fashion,Jacket,Karnataka,2,16246,15,27618.2,24191.07,3427.13,2.5,Credit Card,Cancelled
+ORD10293,2025-04-17,Sports,Football,Maharashtra,1,11952,10,10756.8,8442.14,2314.66,3.2,Cash on Delivery,Cancelled
+ORD10294,2025-04-17,Fashion,T-Shirt,Maharashtra,2,37503,5,71255.7,51208.3,20047.4,4.9,Debit Card,Returned
+ORD10295,2025-04-18,Home & Kitchen,Bedsheet,Maharashtra,1,35793,5,34003.35,24392.4,9610.95,3.3,Net Banking,Delivered
+ORD10296,2025-04-18,Home & Kitchen,Lamp,Tamil Nadu,4,40119,0,160476.0,130130.01,30345.99,3.0,UPI,Delivered
+ORD10297,2025-04-18,Sports,Football,Telangana,1,8577,15,7290.45,6468.77,821.68,3.0,Net Banking,Delivered
+ORD10298,2025-04-19,Home & Kitchen,Lamp,Gujarat,4,24690,0,98760.0,67570.06,31189.94,3.7,Debit Card,Delivered
+ORD10299,2025-04-19,Fashion,Shoes,Maharashtra,3,11292,0,33876.0,23015.02,10860.98,4.6,Credit Card,Delivered
+ORD10300,2025-04-19,Electronics,Laptop,Delhi,4,44678,15,151905.2,99569.28,52335.92,4.4,UPI,Returned
+ORD10301,2025-04-20,Fashion,Jacket,West Bengal,3,13553,20,32527.2,32709.25,-182.05,3.6,Net Banking,Delivered
+ORD10302,2025-04-20,Sports,Football,Karnataka,2,7409,15,12595.3,9426.87,3168.43,3.0,Net Banking,Delivered
+ORD10303,2025-04-21,Electronics,Smartphone,Gujarat,3,28600,10,77220.0,53119.08,24100.92,2.6,UPI,Delivered
+ORD10304,2025-04-21,Sports,Running Shoes,Gujarat,2,43983,10,79169.4,72118.08,7051.32,3.7,Debit Card,Delivered
+ORD10305,2025-04-21,Home & Kitchen,Lamp,Delhi,1,45807,10,41226.3,34082.52,7143.78,4.5,Cash on Delivery,Delivered
+ORD10306,2025-04-22,Electronics,Smartphone,Gujarat,2,5030,5,9557.0,5661.65,3895.35,4.3,Debit Card,Delivered
+ORD10307,2025-04-22,Fashion,Jeans,Gujarat,2,16463,10,29633.4,18659.46,10973.94,3.5,UPI,Delivered
+ORD10308,2025-04-22,Home & Kitchen,Mixer,Gujarat,1,7887,10,7098.3,4392.16,2706.14,4.0,Credit Card,Delivered
+ORD10309,2025-04-23,Fashion,Jeans,Telangana,1,15566,10,14009.4,11081.39,2928.01,3.6,Credit Card,Delivered
+ORD10310,2025-04-23,Electronics,Smartwatch,Tamil Nadu,4,26808,20,85785.6,61049.58,24736.02,3.9,Credit Card,Delivered
+ORD10311,2025-04-23,Beauty,Moisturizer,Maharashtra,3,14208,20,34099.2,34185.08,-85.88,3.8,Net Banking,Delivered
+ORD10312,2025-04-24,Beauty,Perfume,Maharashtra,2,3609,0,7218.0,5795.8,1422.2,4.2,Credit Card,Delivered
+ORD10313,2025-04-24,Electronics,Smartwatch,Delhi,4,25623,10,92242.8,71481.47,20761.33,3.8,Cash on Delivery,Returned
+ORD10314,2025-04-25,Fashion,Jacket,West Bengal,1,2877,5,2733.15,2061.35,671.8,4.9,Net Banking,Delivered
+ORD10315,2025-04-25,Fashion,Jacket,Maharashtra,2,11528,10,20750.4,14497.88,6252.52,3.6,Cash on Delivery,Delivered
+ORD10316,2025-04-25,Beauty,Perfume,Maharashtra,4,275,5,1045.0,624.0,421.0,2.5,Cash on Delivery,Delivered
+ORD10317,2025-04-26,Beauty,Moisturizer,Tamil Nadu,3,4569,5,13021.65,10268.11,2753.54,3.1,UPI,Delivered
+ORD10318,2025-04-26,Beauty,Moisturizer,Gujarat,2,21956,15,37325.2,25358.4,11966.8,3.8,UPI,Delivered
+ORD10319,2025-04-26,Sports,Football,Karnataka,2,42573,10,76631.4,48797.22,27834.18,3.9,Cash on Delivery,Delivered
+ORD10320,2025-04-27,Beauty,Perfume,Karnataka,1,38787,20,31029.6,24592.13,6437.47,3.9,Cash on Delivery,Delivered
+ORD10321,2025-04-27,Fashion,T-Shirt,Tamil Nadu,1,5166,0,5166.0,2858.69,2307.31,4.3,Cash on Delivery,Delivered
+ORD10322,2025-04-27,Electronics,Headphones,Gujarat,1,1983,0,1983.0,1323.04,659.96,3.2,Debit Card,Delivered
+ORD10323,2025-04-28,Beauty,Moisturizer,Tamil Nadu,4,17069,10,61448.4,50597.56,10850.84,4.2,Debit Card,Cancelled
+ORD10324,2025-04-28,Sports,Running Shoes,Karnataka,3,32699,0,98097.0,75178.03,22918.97,4.3,UPI,Delivered
+ORD10325,2025-04-29,Sports,Running Shoes,Gujarat,2,37399,5,71058.1,53343.16,17714.94,3.5,Credit Card,Delivered
+ORD10326,2025-04-29,Fashion,T-Shirt,West Bengal,4,41200,20,131840.0,128322.51,3517.49,3.5,Debit Card,Delivered
+ORD10327,2025-04-29,Fashion,Shoes,Delhi,1,17274,5,16410.3,11396.62,5013.68,2.9,UPI,Delivered
+ORD10328,2025-04-30,Electronics,Laptop,Delhi,1,8608,5,8177.6,6707.08,1470.52,3.5,UPI,Delivered
+ORD10329,2025-04-30,Electronics,Smartphone,Karnataka,2,1560,10,2808.0,2142.65,665.35,4.5,UPI,Delivered
+ORD10330,2025-04-30,Home & Kitchen,Cookware Set,Tamil Nadu,4,7556,10,27201.6,18443.28,8758.32,4.8,Credit Card,Delivered
+ORD10331,2025-05-01,Home & Kitchen,Cookware Set,Maharashtra,3,3491,10,9425.7,8429.92,995.78,4.0,Net Banking,Delivered
+ORD10332,2025-05-01,Fashion,Shoes,Karnataka,4,43074,10,155066.4,107554.42,47511.98,3.2,Cash on Delivery,Returned
+ORD10333,2025-05-01,Fashion,Jeans,Tamil Nadu,1,13603,15,11562.55,7577.88,3984.67,4.2,Net Banking,Delivered
+ORD10334,2025-05-02,Sports,Running Shoes,Maharashtra,4,41200,0,164800.0,101438.02,63361.98,4.4,Credit Card,Delivered
+ORD10335,2025-05-02,Home & Kitchen,Lamp,West Bengal,1,27769,10,24992.1,18022.24,6969.86,3.3,Debit Card,Delivered
+ORD10336,2025-05-03,Sports,Running Shoes,Delhi,1,27062,15,23002.7,17451.32,5551.38,4.6,Net Banking,Delivered
+ORD10337,2025-05-03,Sports,Yoga Mat,Delhi,3,22875,20,54900.0,47465.18,7434.82,2.7,Credit Card,Delivered
+ORD10338,2025-05-03,Fashion,Jeans,Gujarat,1,41005,10,36904.5,32330.16,4574.34,2.5,Cash on Delivery,Delivered
+ORD10339,2025-05-04,Fashion,Jacket,Tamil Nadu,4,2411,10,8679.6,6065.41,2614.19,2.8,Cash on Delivery,Delivered
+ORD10340,2025-05-04,Sports,Football,Gujarat,4,4864,0,19456.0,13436.47,6019.53,2.9,Net Banking,Delivered
+ORD10341,2025-05-04,Beauty,Moisturizer,West Bengal,3,21313,5,60742.05,41038.45,19703.6,4.7,Net Banking,Cancelled
+ORD10342,2025-05-05,Fashion,T-Shirt,West Bengal,2,19875,0,39750.0,30682.18,9067.82,3.6,Cash on Delivery,Cancelled
+ORD10343,2025-05-05,Beauty,Face Wash,Karnataka,1,27393,15,23284.05,16231.79,7052.26,3.2,Debit Card,Cancelled
+ORD10344,2025-05-05,Home & Kitchen,Lamp,Tamil Nadu,3,36955,5,105321.75,64074.18,41247.57,3.6,Net Banking,Delivered
+ORD10345,2025-05-06,Sports,Cricket Bat,Delhi,3,29480,15,75174.0,60652.92,14521.08,3.5,Cash on Delivery,Delivered
+ORD10346,2025-05-06,Fashion,Jacket,West Bengal,4,13058,0,52232.0,38202.99,14029.01,3.3,Credit Card,Delivered
+ORD10347,2025-05-07,Sports,Running Shoes,Karnataka,3,16532,20,39676.8,37930.61,1746.19,2.8,Cash on Delivery,Returned
+ORD10348,2025-05-07,Sports,Yoga Mat,Delhi,1,37678,15,32026.3,26721.19,5305.11,4.1,Debit Card,Delivered
+ORD10349,2025-05-07,Electronics,Smartphone,Tamil Nadu,1,10273,0,10273.0,7796.58,2476.42,2.8,Credit Card,Delivered
+ORD10350,2025-05-08,Electronics,Smartphone,Telangana,4,25332,0,101328.0,66474.38,34853.62,4.4,Debit Card,Delivered
+ORD10351,2025-05-08,Home & Kitchen,Mixer,Maharashtra,1,27054,0,27054.0,15119.78,11934.22,3.0,Cash on Delivery,Delivered
+ORD10352,2025-05-08,Electronics,Headphones,Gujarat,4,37575,20,120240.0,87376.43,32863.57,4.3,Net Banking,Cancelled
+ORD10353,2025-05-09,Fashion,Jeans,Delhi,1,35789,5,33999.55,20058.13,13941.42,4.5,Debit Card,Delivered
+ORD10354,2025-05-09,Home & Kitchen,Bedsheet,Tamil Nadu,3,23367,10,63090.9,44781.56,18309.34,2.8,UPI,Delivered
+ORD10355,2025-05-09,Sports,Cricket Bat,Gujarat,4,15630,10,56268.0,42750.09,13517.91,2.7,Net Banking,Delivered
+ORD10356,2025-05-10,Sports,Football,West Bengal,2,18553,15,31540.1,23978.11,7561.99,4.9,Debit Card,Delivered
+ORD10357,2025-05-10,Electronics,Headphones,West Bengal,1,20726,10,18653.4,14536.43,4116.97,3.7,Credit Card,Delivered
+ORD10358,2025-05-11,Sports,Cricket Bat,Tamil Nadu,4,11154,10,40154.4,30328.37,9826.03,4.1,Cash on Delivery,Returned
+ORD10359,2025-05-11,Electronics,Laptop,Tamil Nadu,1,31364,20,25091.2,22991.21,2099.99,2.6,Credit Card,Delivered
+ORD10360,2025-05-11,Beauty,Perfume,West Bengal,3,10616,5,30255.6,23251.58,7004.02,3.2,Credit Card,Delivered
+ORD10361,2025-05-12,Sports,Cricket Bat,Karnataka,4,32521,15,110571.4,82717.47,27853.93,3.8,Net Banking,Delivered
+ORD10362,2025-05-12,Sports,Cricket Bat,Telangana,3,37636,0,112908.0,72653.8,40254.2,4.7,Net Banking,Delivered
+ORD10363,2025-05-12,Fashion,Jeans,Telangana,1,48101,10,43290.9,34055.02,9235.88,3.2,Debit Card,Delivered
+ORD10364,2025-05-13,Sports,Cricket Bat,Maharashtra,4,6165,20,19728.0,17534.17,2193.83,4.4,Credit Card,Delivered
+ORD10365,2025-05-13,Electronics,Smartphone,West Bengal,1,38046,15,32339.1,24158.03,8181.07,4.2,Net Banking,Cancelled
+ORD10366,2025-05-13,Home & Kitchen,Mixer,Tamil Nadu,3,4527,15,11543.85,8680.78,2863.07,2.8,UPI,Delivered
+ORD10367,2025-05-14,Home & Kitchen,Cookware Set,Delhi,3,17028,5,48529.8,37668.94,10860.86,3.2,Cash on Delivery,Delivered
+ORD10368,2025-05-14,Fashion,Jeans,Gujarat,2,9020,10,16236.0,13075.41,3160.59,3.1,Debit Card,Delivered
+ORD10369,2025-05-15,Electronics,Smartwatch,Gujarat,2,8323,10,14981.4,9762.28,5219.12,3.6,Net Banking,Delivered
+ORD10370,2025-05-15,Beauty,Moisturizer,West Bengal,1,8973,10,8075.7,6003.67,2072.03,4.1,Debit Card,Delivered
+ORD10371,2025-05-15,Fashion,Jacket,West Bengal,4,2435,10,8766.0,7704.64,1061.36,3.6,Net Banking,Cancelled
+ORD10372,2025-05-16,Beauty,Perfume,Telangana,1,41199,5,39139.05,23063.3,16075.75,3.1,UPI,Delivered
+ORD10373,2025-05-16,Home & Kitchen,Cookware Set,Tamil Nadu,2,3291,5,6252.9,5139.85,1113.05,4.2,Cash on Delivery,Returned
+ORD10374,2025-05-16,Fashion,Jeans,Maharashtra,3,20075,5,57213.75,35777.15,21436.6,4.0,UPI,Delivered
+ORD10375,2025-05-17,Sports,Running Shoes,West Bengal,3,35033,10,94589.1,72198.51,22390.59,3.8,Cash on Delivery,Delivered
+ORD10376,2025-05-17,Electronics,Smartwatch,Maharashtra,3,49521,0,148563.0,98730.64,49832.36,3.9,UPI,Delivered
+ORD10377,2025-05-18,Beauty,Shampoo,Karnataka,3,42721,20,102530.4,70840.17,31690.23,3.1,Net Banking,Delivered
+ORD10378,2025-05-18,Beauty,Shampoo,Maharashtra,3,7076,10,19105.2,16922.05,2183.15,4.2,Cash on Delivery,Cancelled
+ORD10379,2025-05-18,Fashion,Shoes,West Bengal,4,49390,0,197560.0,132924.26,64635.74,3.5,UPI,Delivered
+ORD10380,2025-05-19,Fashion,Shoes,Gujarat,2,32763,15,55697.1,52922.23,2774.87,3.4,Net Banking,Delivered
+ORD10381,2025-05-19,Electronics,Smartwatch,Karnataka,4,9183,15,31222.2,23046.42,8175.78,2.9,Credit Card,Delivered
+ORD10382,2025-05-19,Sports,Football,Maharashtra,4,22574,5,85781.2,70782.53,14998.67,4.0,Debit Card,Cancelled
+ORD10383,2025-05-20,Sports,Football,Delhi,4,45914,5,174473.2,146749.44,27723.76,4.0,UPI,Delivered
+ORD10384,2025-05-20,Fashion,Jacket,Telangana,4,19797,0,79188.0,55458.9,23729.1,3.4,UPI,Delivered
+ORD10385,2025-05-20,Electronics,Headphones,West Bengal,4,9385,0,37540.0,22701.3,14838.7,4.6,Credit Card,Delivered
+ORD10386,2025-05-21,Electronics,Laptop,Gujarat,1,43785,15,37217.25,32182.71,5034.54,4.6,Debit Card,Cancelled
+ORD10387,2025-05-21,Electronics,Smartphone,Tamil Nadu,4,47660,20,152512.0,133109.44,19402.56,2.8,Debit Card,Delivered
+ORD10388,2025-05-22,Sports,Football,Telangana,3,48785,0,146355.0,117819.14,28535.86,4.2,Net Banking,Delivered
+ORD10389,2025-05-22,Sports,Running Shoes,West Bengal,2,47796,15,81253.2,63913.14,17340.06,3.5,UPI,Returned
+ORD10390,2025-05-22,Electronics,Smartwatch,Karnataka,3,43674,0,131022.0,81561.02,49460.98,5.0,Cash on Delivery,Delivered
+ORD10391,2025-05-23,Beauty,Perfume,West Bengal,2,22860,10,41148.0,26853.07,14294.93,3.1,UPI,Delivered
+ORD10392,2025-05-23,Electronics,Smartphone,Gujarat,3,9816,15,25030.8,21751.21,3279.59,3.2,Credit Card,Delivered
+ORD10393,2025-05-23,Fashion,Jacket,West Bengal,4,30953,10,111430.8,100660.34,10770.46,3.6,UPI,Delivered
+ORD10394,2025-05-24,Home & Kitchen,Lamp,Maharashtra,1,11234,0,11234.0,6264.67,4969.33,3.2,UPI,Delivered
+ORD10395,2025-05-24,Beauty,Face Wash,Maharashtra,2,23789,10,42820.2,35679.71,7140.49,4.2,Debit Card,Delivered
+ORD10396,2025-05-24,Sports,Yoga Mat,West Bengal,4,32889,20,105244.8,105280.48,-35.68,3.7,Net Banking,Delivered
+ORD10397,2025-05-25,Electronics,Smartphone,Tamil Nadu,2,47342,5,89949.8,53987.97,35961.83,3.1,Cash on Delivery,Delivered
+ORD10398,2025-05-25,Electronics,Smartphone,Karnataka,4,14631,5,55597.8,33929.05,21668.75,3.8,Net Banking,Delivered
+ORD10399,2025-05-26,Fashion,T-Shirt,West Bengal,1,12782,0,12782.0,9418.14,3363.86,4.7,Debit Card,Delivered
+ORD10400,2025-05-26,Fashion,Jeans,Maharashtra,3,36802,10,99365.4,80038.84,19326.56,4.5,UPI,Delivered
+ORD10401,2025-05-26,Sports,Running Shoes,Tamil Nadu,4,571,10,2055.6,1298.64,756.96,3.7,Credit Card,Delivered
+ORD10402,2025-05-27,Beauty,Face Wash,Karnataka,4,28429,15,96658.6,88163.35,8495.25,3.2,Net Banking,Delivered
+ORD10403,2025-05-27,Fashion,Jeans,Maharashtra,1,37359,15,31755.15,25827.19,5927.96,2.9,UPI,Delivered
+ORD10404,2025-05-27,Sports,Football,Telangana,4,27657,20,88502.4,87942.99,559.41,4.7,UPI,Delivered
+ORD10405,2025-05-28,Home & Kitchen,Mixer,Telangana,2,19351,15,32896.7,30460.7,2436.0,4.3,Net Banking,Delivered
+ORD10406,2025-05-28,Home & Kitchen,Mixer,Maharashtra,2,41470,5,78793.0,63812.14,14980.86,3.9,UPI,Delivered
+ORD10407,2025-05-28,Home & Kitchen,Cookware Set,Maharashtra,2,18708,10,33674.4,25790.58,7883.82,4.7,Net Banking,Returned
+ORD10408,2025-05-29,Electronics,Smartwatch,Tamil Nadu,3,35599,5,101457.15,65996.47,35460.68,2.8,Cash on Delivery,Delivered
+ORD10409,2025-05-29,Sports,Cricket Bat,Maharashtra,3,23341,5,66521.85,48078.73,18443.12,4.2,Cash on Delivery,Delivered
+ORD10410,2025-05-30,Electronics,Headphones,Telangana,2,1572,20,2515.2,1814.78,700.42,3.0,Debit Card,Delivered
+ORD10411,2025-05-30,Electronics,Laptop,West Bengal,1,26643,15,22646.55,19393.13,3253.42,2.8,UPI,Delivered
+ORD10412,2025-05-30,Fashion,Shoes,Telangana,4,2710,20,8672.0,6354.12,2317.88,3.7,Debit Card,Delivered
+ORD10413,2025-05-31,Fashion,Jeans,Karnataka,1,46565,10,41908.5,32037.5,9871.0,3.5,Net Banking,Delivered
+ORD10414,2025-05-31,Electronics,Smartwatch,Karnataka,1,30177,10,27159.3,17040.44,10118.86,4.9,Net Banking,Returned
+ORD10415,2025-05-31,Electronics,Smartphone,Tamil Nadu,3,18758,10,50646.6,35501.49,15145.11,3.3,Debit Card,Delivered
+ORD10416,2025-06-01,Beauty,Shampoo,Maharashtra,2,24438,0,48876.0,29944.45,18931.55,4.5,Net Banking,Delivered
+ORD10417,2025-06-01,Sports,Yoga Mat,Gujarat,3,31054,5,88503.9,66835.21,21668.69,4.4,Cash on Delivery,Delivered
+ORD10418,2025-06-01,Electronics,Headphones,Gujarat,4,13194,10,47498.4,40238.13,7260.27,4.2,UPI,Delivered
+ORD10419,2025-06-02,Fashion,Jacket,Telangana,1,14597,0,14597.0,8254.19,6342.81,4.8,Cash on Delivery,Cancelled
+ORD10420,2025-06-02,Home & Kitchen,Cookware Set,Karnataka,2,21078,20,33724.8,32863.83,860.97,3.5,Cash on Delivery,Delivered
+ORD10421,2025-06-03,Sports,Running Shoes,Telangana,3,13113,0,39339.0,30779.12,8559.88,3.5,Debit Card,Delivered
+ORD10422,2025-06-03,Beauty,Shampoo,Tamil Nadu,4,37956,5,144232.8,97533.66,46699.14,2.9,Cash on Delivery,Delivered
+ORD10423,2025-06-03,Beauty,Moisturizer,Karnataka,3,5414,15,13805.7,11823.06,1982.64,3.2,Net Banking,Delivered
+ORD10424,2025-06-04,Home & Kitchen,Lamp,Delhi,2,41373,0,82746.0,54505.25,28240.75,4.7,Debit Card,Delivered
+ORD10425,2025-06-04,Home & Kitchen,Cookware Set,Maharashtra,3,17589,20,42213.6,31218.62,10994.98,3.7,Credit Card,Delivered
+ORD10426,2025-06-04,Electronics,Smartwatch,Gujarat,4,28170,15,95778.0,78057.81,17720.19,3.4,Net Banking,Delivered
+ORD10427,2025-06-05,Sports,Yoga Mat,Karnataka,2,8098,0,16196.0,9285.44,6910.56,3.0,Net Banking,Delivered
+ORD10428,2025-06-05,Sports,Running Shoes,Maharashtra,4,19422,15,66034.8,61155.02,4879.78,3.7,Cash on Delivery,Delivered
+ORD10429,2025-06-05,Electronics,Headphones,Gujarat,4,37791,10,136047.6,120864.42,15183.18,4.3,Cash on Delivery,Delivered
+ORD10430,2025-06-06,Beauty,Shampoo,Gujarat,2,13717,15,23318.9,21174.54,2144.36,3.2,UPI,Delivered
+ORD10431,2025-06-06,Electronics,Headphones,Maharashtra,1,6830,15,5805.5,4793.86,1011.64,4.4,Debit Card,Delivered
+ORD10432,2025-06-07,Beauty,Face Wash,Karnataka,4,26215,15,89131.0,73459.84,15671.16,4.1,UPI,Delivered
+ORD10433,2025-06-07,Sports,Cricket Bat,Maharashtra,1,8333,10,7499.7,6798.43,701.27,4.5,Debit Card,Delivered
+ORD10434,2025-06-07,Electronics,Smartphone,Tamil Nadu,2,15908,5,30225.2,19628.35,10596.85,3.1,Net Banking,Cancelled
+ORD10435,2025-06-08,Home & Kitchen,Cookware Set,Delhi,1,22660,15,19261.0,12927.67,6333.33,4.1,Credit Card,Delivered
+ORD10436,2025-06-08,Electronics,Laptop,Maharashtra,3,28313,20,67951.2,59603.74,8347.46,2.9,Net Banking,Delivered
+ORD10437,2025-06-08,Home & Kitchen,Cookware Set,Karnataka,2,32058,10,57704.4,40955.51,16748.89,3.4,UPI,Delivered
+ORD10438,2025-06-09,Sports,Yoga Mat,West Bengal,3,33913,15,86478.15,64810.94,21667.21,4.3,UPI,Delivered
+ORD10439,2025-06-09,Electronics,Headphones,Karnataka,4,42253,10,152110.8,93279.93,58830.87,4.1,Net Banking,Cancelled
+ORD10440,2025-06-09,Fashion,Jacket,Tamil Nadu,4,3537,15,12025.8,10059.01,1966.79,3.0,UPI,Delivered
+ORD10441,2025-06-10,Sports,Running Shoes,Gujarat,4,18275,20,58480.0,45416.23,13063.77,4.6,Cash on Delivery,Delivered
+ORD10442,2025-06-10,Fashion,Shoes,Karnataka,1,303,5,287.85,182.02,105.83,2.6,Cash on Delivery,Cancelled
+ORD10443,2025-06-11,Electronics,Smartwatch,Delhi,2,719,5,1366.1,806.6,559.5,4.0,Credit Card,Delivered
+ORD10444,2025-06-11,Home & Kitchen,Cookware Set,Maharashtra,1,10810,10,9729.0,7008.96,2720.04,5.0,UPI,Delivered
+ORD10445,2025-06-11,Home & Kitchen,Mixer,Telangana,4,30007,10,108025.2,94500.64,13524.56,3.8,Credit Card,Delivered
+ORD10446,2025-06-12,Beauty,Face Wash,Delhi,3,44751,10,120827.7,86042.9,34784.8,4.5,UPI,Delivered
+ORD10447,2025-06-12,Fashion,Jacket,Gujarat,2,38733,0,77466.0,56809.69,20656.31,4.0,Cash on Delivery,Delivered
+ORD10448,2025-06-12,Sports,Running Shoes,Karnataka,3,32402,10,87485.4,73319.34,14166.06,4.5,Net Banking,Delivered
+ORD10449,2025-06-13,Home & Kitchen,Lamp,Telangana,3,38963,10,105200.1,74643.82,30556.28,4.1,Net Banking,Delivered
+ORD10450,2025-06-13,Fashion,T-Shirt,Karnataka,2,8805,10,15849.0,13592.16,2256.84,4.2,Net Banking,Delivered
+ORD10451,2025-06-13,Sports,Football,Gujarat,2,42031,15,71452.7,61937.51,9515.19,3.1,Cash on Delivery,Delivered
+ORD10452,2025-06-14,Sports,Cricket Bat,West Bengal,1,44540,15,37859.0,31222.34,6636.66,4.4,Net Banking,Delivered
+ORD10453,2025-06-14,Home & Kitchen,Mixer,Tamil Nadu,2,4978,10,8960.4,5478.47,3481.93,3.1,Cash on Delivery,Delivered
+ORD10454,2025-06-15,Electronics,Laptop,Tamil Nadu,2,23630,15,40171.0,26440.77,13730.23,5.0,Cash on Delivery,Delivered
+ORD10455,2025-06-15,Home & Kitchen,Lamp,West Bengal,4,41544,10,149558.4,135854.49,13703.91,3.1,Net Banking,Delivered
+ORD10456,2025-06-15,Home & Kitchen,Mixer,Karnataka,4,23935,10,86166.0,72878.88,13287.12,3.1,Credit Card,Delivered
+ORD10457,2025-06-16,Electronics,Smartwatch,West Bengal,4,42063,10,151426.8,135130.35,16296.45,4.6,Debit Card,Delivered
+ORD10458,2025-06-16,Beauty,Perfume,Gujarat,1,46793,0,46793.0,37135.95,9657.05,3.1,Net Banking,Delivered
+ORD10459,2025-06-16,Sports,Football,Delhi,4,23864,5,90683.2,53027.68,37655.52,3.4,Credit Card,Delivered
+ORD10460,2025-06-17,Electronics,Smartphone,Karnataka,2,3209,10,5776.2,4902.06,874.14,4.3,Credit Card,Delivered
+ORD10461,2025-06-17,Beauty,Shampoo,Telangana,2,17167,20,27467.2,23065.9,4401.3,2.9,UPI,Delivered
+ORD10462,2025-06-17,Electronics,Headphones,West Bengal,4,10955,15,37247.0,33442.58,3804.42,2.9,Credit Card,Delivered
+ORD10463,2025-06-18,Beauty,Face Wash,Tamil Nadu,4,23837,0,95348.0,52614.29,42733.71,3.7,Debit Card,Delivered
+ORD10464,2025-06-18,Home & Kitchen,Mixer,Maharashtra,1,29392,10,26452.8,18452.7,8000.1,3.1,Net Banking,Delivered
+ORD10465,2025-06-19,Electronics,Smartwatch,Gujarat,2,23328,5,44323.2,35125.32,9197.88,3.1,UPI,Delivered
+ORD10466,2025-06-19,Sports,Cricket Bat,Telangana,3,9975,15,25436.25,22866.16,2570.09,2.5,Cash on Delivery,Cancelled
+ORD10467,2025-06-19,Electronics,Smartphone,Delhi,3,15232,15,38841.6,32778.79,6062.81,3.4,Cash on Delivery,Delivered
+ORD10468,2025-06-20,Home & Kitchen,Cookware Set,Telangana,2,34056,10,61300.8,43001.77,18299.03,3.3,Net Banking,Delivered
+ORD10469,2025-06-20,Electronics,Smartwatch,Tamil Nadu,3,1592,10,4298.4,3027.02,1271.38,2.6,Cash on Delivery,Returned
+ORD10470,2025-06-20,Sports,Cricket Bat,Maharashtra,4,10901,5,41423.8,35363.99,6059.81,4.1,UPI,Cancelled
+ORD10471,2025-06-21,Beauty,Shampoo,Gujarat,1,44643,10,40178.7,29847.74,10330.96,4.1,Debit Card,Delivered
+ORD10472,2025-06-21,Sports,Yoga Mat,Karnataka,3,5183,20,12439.2,10429.09,2010.11,2.7,Net Banking,Delivered
+ORD10473,2025-06-21,Home & Kitchen,Cookware Set,Gujarat,3,20883,15,53251.65,43799.79,9451.86,3.3,Net Banking,Returned
+ORD10474,2025-06-22,Home & Kitchen,Mixer,Delhi,4,10547,10,37969.2,27867.94,10101.26,4.7,Cash on Delivery,Delivered
+ORD10475,2025-06-22,Beauty,Shampoo,Telangana,2,5456,10,9820.8,7629.9,2190.9,4.0,Net Banking,Delivered
+ORD10476,2025-06-23,Beauty,Perfume,West Bengal,1,21281,0,21281.0,14188.69,7092.31,3.5,Cash on Delivery,Delivered
+ORD10477,2025-06-23,Sports,Football,Gujarat,3,26191,0,78573.0,60753.67,17819.33,3.7,UPI,Delivered
+ORD10478,2025-06-23,Electronics,Headphones,Gujarat,3,9012,5,25684.2,21505.62,4178.58,3.0,Net Banking,Delivered
+ORD10479,2025-06-24,Beauty,Face Wash,Tamil Nadu,2,4120,10,7416.0,6605.76,810.24,4.5,UPI,Delivered
+ORD10480,2025-06-24,Electronics,Headphones,Tamil Nadu,4,6950,20,22240.0,19525.61,2714.39,4.8,Credit Card,Delivered
+ORD10481,2025-06-24,Fashion,T-Shirt,Tamil Nadu,4,32664,10,117590.4,87458.53,30131.87,4.8,Credit Card,Delivered
+ORD10482,2025-06-25,Sports,Cricket Bat,Telangana,1,43049,5,40896.55,31874.12,9022.43,3.1,Cash on Delivery,Delivered
+ORD10483,2025-06-25,Fashion,Jeans,West Bengal,4,9219,0,36876.0,28628.59,8247.41,3.3,UPI,Cancelled
+ORD10484,2025-06-25,Beauty,Face Wash,Telangana,1,16189,5,15379.55,11364.76,4014.79,2.9,Cash on Delivery,Delivered
+ORD10485,2025-06-26,Home & Kitchen,Cookware Set,Maharashtra,2,17354,15,29501.8,25649.03,3852.77,3.3,Net Banking,Returned
+ORD10486,2025-06-26,Fashion,Jacket,Gujarat,1,18197,10,16377.3,13691.91,2685.39,3.3,Cash on Delivery,Cancelled
+ORD10487,2025-06-27,Fashion,T-Shirt,Gujarat,2,12403,15,21085.1,18173.53,2911.57,4.1,Credit Card,Delivered
+ORD10488,2025-06-27,Home & Kitchen,Mixer,Gujarat,4,2999,15,10196.6,9014.47,1182.13,3.0,Net Banking,Delivered
+ORD10489,2025-06-27,Beauty,Face Wash,Gujarat,2,26376,0,52752.0,31985.34,20766.66,4.8,Credit Card,Delivered
+ORD10490,2025-06-28,Beauty,Moisturizer,Telangana,3,18029,10,48678.3,37025.86,11652.44,2.8,Cash on Delivery,Returned
+ORD10491,2025-06-28,Sports,Football,Delhi,1,17277,20,13821.6,12246.5,1575.1,2.5,Debit Card,Delivered
+ORD10492,2025-06-28,Sports,Football,Karnataka,3,13424,10,36244.8,22176.54,14068.26,4.6,UPI,Delivered
+ORD10493,2025-06-29,Beauty,Face Wash,Gujarat,2,46484,0,92968.0,72618.22,20349.78,4.3,UPI,Delivered
+ORD10494,2025-06-29,Beauty,Perfume,Telangana,3,30621,20,73490.4,65655.09,7835.31,3.4,UPI,Delivered
+ORD10495,2025-06-29,Fashion,Jeans,Delhi,4,21079,20,67452.8,49313.63,18139.17,4.0,Net Banking,Delivered
+ORD10496,2025-06-30,Home & Kitchen,Cookware Set,Maharashtra,3,10468,10,28263.6,24194.16,4069.44,3.1,Net Banking,Delivered
+ORD10497,2025-06-30,Electronics,Smartphone,West Bengal,1,40105,10,36094.5,29822.29,6272.21,2.9,Debit Card,Delivered
+ORD10498,2025-07-01,Fashion,Jacket,Karnataka,2,44446,5,84447.4,67090.43,17356.97,3.7,Net Banking,Delivered
+ORD10499,2025-07-01,Sports,Football,Tamil Nadu,1,1857,15,1578.45,1217.92,360.53,3.4,UPI,Delivered
+ORD10500,2025-07-01,Home & Kitchen,Bedsheet,Telangana,2,46500,10,83700.0,72599.02,11100.98,4.0,Net Banking,Delivered
+ORD10501,2025-07-02,Electronics,Smartphone,Karnataka,1,35046,0,35046.0,23193.0,11853.0,3.0,Credit Card,Cancelled
+ORD10502,2025-07-02,Beauty,Perfume,Delhi,3,5216,15,13300.8,11016.78,2284.02,4.2,UPI,Delivered
+ORD10503,2025-07-02,Sports,Cricket Bat,Karnataka,2,37719,20,60350.4,41503.98,18846.42,4.4,Cash on Delivery,Delivered
+ORD10504,2025-07-03,Sports,Football,Karnataka,1,5593,15,4754.05,4049.98,704.07,2.9,Credit Card,Cancelled
+ORD10505,2025-07-03,Fashion,Shoes,Karnataka,1,2780,5,2641.0,2068.06,572.94,2.6,Credit Card,Delivered
+ORD10506,2025-07-04,Home & Kitchen,Mixer,Karnataka,4,5987,0,23948.0,16838.31,7109.69,3.6,Cash on Delivery,Delivered
+ORD10507,2025-07-04,Home & Kitchen,Bedsheet,Gujarat,4,23126,20,74003.2,63279.29,10723.91,4.4,Credit Card,Returned
+ORD10508,2025-07-04,Fashion,Jeans,Gujarat,4,31073,20,99433.6,95541.13,3892.47,4.1,Cash on Delivery,Delivered
+ORD10509,2025-07-05,Fashion,Jacket,Maharashtra,1,20514,10,18462.6,15056.67,3405.93,4.3,UPI,Delivered
+ORD10510,2025-07-05,Fashion,Shoes,Telangana,2,6317,10,11370.6,7897.26,3473.34,3.5,UPI,Delivered
+ORD10511,2025-07-05,Sports,Football,Tamil Nadu,4,10158,10,36568.8,32869.25,3699.55,3.1,Credit Card,Delivered
+ORD10512,2025-07-06,Beauty,Face Wash,Maharashtra,3,42656,10,115171.2,94819.44,20351.76,3.8,Cash on Delivery,Delivered
+ORD10513,2025-07-06,Sports,Yoga Mat,Telangana,1,48140,0,48140.0,39318.03,8821.97,3.0,Credit Card,Delivered
+ORD10514,2025-07-06,Sports,Football,Maharashtra,1,37775,0,37775.0,30682.39,7092.61,4.3,UPI,Delivered
+ORD10515,2025-07-07,Sports,Cricket Bat,Gujarat,2,5394,5,10248.6,8609.96,1638.64,3.0,Cash on Delivery,Delivered
+ORD10516,2025-07-07,Electronics,Smartwatch,Gujarat,4,41035,15,139519.0,123753.4,15765.6,3.2,Debit Card,Delivered
+ORD10517,2025-07-08,Sports,Football,Gujarat,1,34676,0,34676.0,24777.59,9898.41,3.8,Debit Card,Delivered
+ORD10518,2025-07-08,Electronics,Laptop,West Bengal,4,26421,5,100399.8,63039.03,37360.77,3.7,Credit Card,Delivered
+ORD10519,2025-07-08,Home & Kitchen,Cookware Set,West Bengal,3,7376,10,19915.2,15416.69,4498.51,4.0,UPI,Delivered
+ORD10520,2025-07-09,Home & Kitchen,Cookware Set,Karnataka,4,49834,5,189369.2,150827.92,38541.28,3.6,UPI,Delivered
+ORD10521,2025-07-09,Fashion,Jacket,Tamil Nadu,4,22269,5,84622.2,61518.69,23103.51,4.8,Cash on Delivery,Returned
+ORD10522,2025-07-09,Electronics,Smartphone,West Bengal,2,2447,10,4404.6,3838.97,565.63,4.6,UPI,Delivered
+ORD10523,2025-07-10,Electronics,Laptop,Telangana,4,10695,10,38502.0,24795.59,13706.41,4.7,Credit Card,Delivered
+ORD10524,2025-07-10,Sports,Cricket Bat,West Bengal,1,20212,10,18190.8,13195.48,4995.32,4.1,Net Banking,Delivered
+ORD10525,2025-07-10,Fashion,Shoes,Gujarat,2,3350,20,5360.0,4600.29,759.71,4.1,Credit Card,Delivered
+ORD10526,2025-07-11,Fashion,T-Shirt,Karnataka,1,16365,5,15546.75,10911.0,4635.75,4.0,Cash on Delivery,Returned
+ORD10527,2025-07-11,Sports,Football,Gujarat,1,23553,20,18842.4,13644.69,5197.71,3.6,Credit Card,Delivered
+ORD10528,2025-07-12,Electronics,Laptop,Telangana,1,47445,20,37956.0,28061.47,9894.53,3.3,Net Banking,Delivered
+ORD10529,2025-07-12,Sports,Cricket Bat,West Bengal,1,4547,15,3864.95,3529.18,335.77,4.0,Net Banking,Delivered
+ORD10530,2025-07-12,Sports,Running Shoes,Tamil Nadu,1,28948,10,26053.2,19707.33,6345.87,2.6,Debit Card,Delivered
+ORD10531,2025-07-13,Home & Kitchen,Mixer,Tamil Nadu,2,45809,10,82456.2,51595.14,30861.06,2.5,Cash on Delivery,Delivered
+ORD10532,2025-07-13,Electronics,Laptop,Gujarat,1,40358,10,36322.2,22376.6,13945.6,4.6,Debit Card,Returned
+ORD10533,2025-07-13,Electronics,Smartwatch,Delhi,1,46265,15,39325.25,31360.19,7965.06,2.6,Net Banking,Delivered
+ORD10534,2025-07-14,Fashion,T-Shirt,Delhi,4,8724,0,34896.0,20741.56,14154.44,3.8,Credit Card,Delivered
+ORD10535,2025-07-14,Home & Kitchen,Bedsheet,Gujarat,1,40116,20,32092.8,29701.24,2391.56,4.0,Net Banking,Delivered
+ORD10536,2025-07-14,Electronics,Laptop,Telangana,1,48937,10,44043.3,37423.95,6619.35,3.0,Cash on Delivery,Delivered
+ORD10537,2025-07-15,Home & Kitchen,Mixer,Gujarat,1,16470,15,13999.5,10073.71,3925.79,4.7,Cash on Delivery,Delivered
+ORD10538,2025-07-15,Electronics,Laptop,Telangana,1,25057,10,22551.3,17787.66,4763.64,3.0,Credit Card,Delivered
+ORD10539,2025-07-16,Home & Kitchen,Lamp,Maharashtra,3,26659,0,79977.0,47322.4,32654.6,4.7,Net Banking,Delivered
+ORD10540,2025-07-16,Electronics,Smartphone,Telangana,4,24810,10,89316.0,62716.44,26599.56,4.4,Cash on Delivery,Delivered
+ORD10541,2025-07-16,Beauty,Perfume,Gujarat,3,14666,10,39598.2,34757.31,4840.89,3.1,Net Banking,Cancelled
+ORD10542,2025-07-17,Electronics,Laptop,West Bengal,3,48551,10,131087.7,101506.52,29581.18,2.9,Net Banking,Delivered
+ORD10543,2025-07-17,Electronics,Laptop,Gujarat,1,47835,5,45443.25,37750.9,7692.35,3.3,UPI,Cancelled
+ORD10544,2025-07-17,Electronics,Smartphone,Gujarat,4,19191,5,72925.8,46888.75,26037.05,3.5,Net Banking,Delivered
+ORD10545,2025-07-18,Sports,Cricket Bat,Maharashtra,1,40313,10,36281.7,25764.3,10517.4,3.1,Net Banking,Delivered
+ORD10546,2025-07-18,Electronics,Smartphone,Telangana,3,20026,10,54070.2,40682.24,13387.96,5.0,Credit Card,Delivered
+ORD10547,2025-07-18,Home & Kitchen,Lamp,Tamil Nadu,2,39791,20,63665.6,54085.65,9579.95,3.1,Net Banking,Delivered
+ORD10548,2025-07-19,Home & Kitchen,Bedsheet,West Bengal,4,29341,5,111495.8,96163.95,15331.85,4.6,Debit Card,Delivered
+ORD10549,2025-07-19,Home & Kitchen,Cookware Set,Maharashtra,2,23640,5,44916.0,27464.96,17451.04,2.9,Credit Card,Delivered
+ORD10550,2025-07-20,Beauty,Face Wash,Karnataka,3,6620,5,18867.0,15491.41,3375.59,5.0,Credit Card,Delivered
+ORD10551,2025-07-20,Sports,Football,West Bengal,2,32815,10,59067.0,51401.03,7665.97,3.1,Credit Card,Cancelled
+ORD10552,2025-07-20,Fashion,Jacket,Maharashtra,3,16224,10,43804.8,34039.43,9765.37,3.6,UPI,Delivered
+ORD10553,2025-07-21,Sports,Yoga Mat,Gujarat,4,11038,10,39736.8,28384.88,11351.92,3.9,Cash on Delivery,Delivered
+ORD10554,2025-07-21,Fashion,Shoes,Delhi,3,9862,20,23668.8,20419.99,3248.81,2.8,Cash on Delivery,Delivered
+ORD10555,2025-07-21,Sports,Football,West Bengal,2,49098,5,93286.2,61761.97,31524.23,4.5,Cash on Delivery,Delivered
+ORD10556,2025-07-22,Home & Kitchen,Mixer,Telangana,2,5388,15,9159.6,8251.82,907.78,3.2,Debit Card,Delivered
+ORD10557,2025-07-22,Beauty,Shampoo,West Bengal,3,39976,0,119928.0,82094.96,37833.04,3.9,Credit Card,Cancelled
+ORD10558,2025-07-22,Sports,Running Shoes,Delhi,2,43340,5,82346.0,69342.04,13003.96,3.9,Cash on Delivery,Delivered
+ORD10559,2025-07-23,Beauty,Shampoo,Tamil Nadu,1,1794,10,1614.6,1288.32,326.28,4.0,Net Banking,Cancelled
+ORD10560,2025-07-23,Sports,Running Shoes,Tamil Nadu,2,29569,0,59138.0,40738.17,18399.83,2.6,UPI,Delivered
+ORD10561,2025-07-24,Home & Kitchen,Cookware Set,West Bengal,1,28975,10,26077.5,21499.12,4578.38,2.9,Credit Card,Delivered
+ORD10562,2025-07-24,Electronics,Headphones,Maharashtra,1,18093,15,15379.05,12412.92,2966.13,2.9,Net Banking,Delivered
+ORD10563,2025-07-24,Home & Kitchen,Mixer,West Bengal,2,33419,15,56812.3,53083.86,3728.44,3.3,Net Banking,Delivered
+ORD10564,2025-07-25,Electronics,Smartwatch,Delhi,4,20581,10,74091.6,49377.97,24713.63,2.9,Net Banking,Returned
+ORD10565,2025-07-25,Sports,Yoga Mat,Maharashtra,4,22124,10,79646.4,71929.92,7716.48,4.8,UPI,Delivered
+ORD10566,2025-07-25,Fashion,Jeans,Tamil Nadu,2,21718,10,39092.4,33414.94,5677.46,3.8,Debit Card,Delivered
+ORD10567,2025-07-26,Fashion,Jacket,Telangana,2,40083,0,80166.0,62721.72,17444.28,4.1,UPI,Delivered
+ORD10568,2025-07-26,Fashion,Shoes,Maharashtra,1,31749,0,31749.0,21601.55,10147.45,3.4,Net Banking,Delivered
+ORD10569,2025-07-26,Beauty,Shampoo,Maharashtra,4,19107,15,64963.8,59311.52,5652.28,3.2,Debit Card,Delivered
+ORD10570,2025-07-27,Home & Kitchen,Bedsheet,West Bengal,1,46356,20,37084.8,29335.42,7749.38,3.8,Credit Card,Cancelled
+ORD10571,2025-07-27,Sports,Cricket Bat,West Bengal,4,40152,0,160608.0,121375.64,39232.36,3.2,UPI,Delivered
+ORD10572,2025-07-28,Home & Kitchen,Cookware Set,Karnataka,4,46655,10,167958.0,109717.92,58240.08,3.4,Cash on Delivery,Delivered
+ORD10573,2025-07-28,Fashion,Shoes,West Bengal,3,36592,15,93309.6,69477.67,23831.93,3.6,Net Banking,Delivered
+ORD10574,2025-07-28,Electronics,Smartwatch,West Bengal,2,19726,15,33534.2,26446.56,7087.64,3.8,Net Banking,Delivered
+ORD10575,2025-07-29,Electronics,Laptop,West Bengal,4,38703,10,139330.8,98619.32,40711.48,5.0,Net Banking,Delivered
+ORD10576,2025-07-29,Fashion,Jeans,Karnataka,3,16630,10,44901.0,32652.74,12248.26,3.1,Net Banking,Delivered
+ORD10577,2025-07-29,Sports,Yoga Mat,Tamil Nadu,3,13728,15,35006.4,31770.5,3235.9,3.7,Cash on Delivery,Delivered
+ORD10578,2025-07-30,Home & Kitchen,Bedsheet,West Bengal,4,22689,20,72604.8,56205.42,16399.38,2.9,Net Banking,Delivered
+ORD10579,2025-07-30,Sports,Cricket Bat,West Bengal,4,48472,0,193888.0,145653.69,48234.31,3.4,Net Banking,Returned
+ORD10580,2025-07-30,Electronics,Smartphone,Tamil Nadu,1,28504,20,22803.2,16244.49,6558.71,4.3,Debit Card,Returned
+ORD10581,2025-07-31,Electronics,Headphones,Karnataka,4,19338,0,77352.0,58536.09,18815.91,2.9,Cash on Delivery,Delivered
+ORD10582,2025-07-31,Sports,Cricket Bat,Maharashtra,4,23225,15,78965.0,70961.32,8003.68,4.0,Net Banking,Delivered
+ORD10583,2025-08-01,Electronics,Smartphone,Karnataka,1,14738,0,14738.0,9704.36,5033.64,3.5,UPI,Delivered
+ORD10584,2025-08-01,Electronics,Headphones,Maharashtra,2,33022,5,62741.8,49207.34,13534.46,2.6,Cash on Delivery,Delivered
+ORD10585,2025-08-01,Home & Kitchen,Lamp,Karnataka,4,17683,0,70732.0,56379.58,14352.42,4.8,Credit Card,Delivered
+ORD10586,2025-08-02,Sports,Football,Maharashtra,1,27831,10,25047.9,21323.9,3724.0,3.5,UPI,Delivered
+ORD10587,2025-08-02,Beauty,Shampoo,Telangana,2,18648,5,35431.2,24444.57,10986.63,4.5,UPI,Delivered
+ORD10588,2025-08-02,Electronics,Laptop,Tamil Nadu,3,16205,5,46184.25,33094.06,13090.19,3.5,UPI,Returned
+ORD10589,2025-08-03,Sports,Running Shoes,Gujarat,3,48519,10,131001.3,110685.41,20315.89,4.8,Net Banking,Cancelled
+ORD10590,2025-08-03,Sports,Cricket Bat,Telangana,4,17450,10,62820.0,43904.24,18915.76,3.2,Cash on Delivery,Delivered
+ORD10591,2025-08-03,Sports,Yoga Mat,Delhi,1,3758,15,3194.3,2882.57,311.73,3.5,UPI,Delivered
+ORD10592,2025-08-04,Sports,Football,Delhi,2,19084,20,30534.4,24373.29,6161.11,4.4,Cash on Delivery,Delivered
+ORD10593,2025-08-04,Fashion,Jeans,Karnataka,4,26724,15,90861.6,82055.24,8806.36,3.4,Cash on Delivery,Delivered
+ORD10594,2025-08-05,Sports,Cricket Bat,Gujarat,3,4958,0,14874.0,8529.29,6344.71,3.4,Debit Card,Delivered
+ORD10595,2025-08-05,Fashion,Shoes,Karnataka,1,15457,5,14684.15,8686.64,5997.51,5.0,Cash on Delivery,Returned
+ORD10596,2025-08-05,Sports,Cricket Bat,Tamil Nadu,2,8511,20,13617.6,13947.36,-329.76,3.9,Net Banking,Delivered
+ORD10597,2025-08-06,Home & Kitchen,Lamp,West Bengal,2,25157,0,50314.0,39484.08,10829.92,4.2,Debit Card,Delivered
+ORD10598,2025-08-06,Beauty,Moisturizer,Gujarat,3,36224,10,97804.8,85673.62,12131.18,4.1,Cash on Delivery,Delivered
+ORD10599,2025-08-06,Beauty,Shampoo,Delhi,2,48431,20,77489.6,78152.68,-663.08,4.6,Debit Card,Delivered
+ORD10600,2025-08-07,Beauty,Moisturizer,Tamil Nadu,3,19607,20,47056.8,39312.74,7744.06,4.7,Credit Card,Delivered
+ORD10601,2025-08-07,Beauty,Perfume,Telangana,2,43197,10,77754.6,54207.54,23547.06,3.9,Net Banking,Delivered
+ORD10602,2025-08-07,Beauty,Moisturizer,Gujarat,3,10923,15,27853.65,19173.36,8680.29,3.2,Debit Card,Delivered
+ORD10603,2025-08-08,Beauty,Shampoo,Karnataka,1,39079,10,35171.1,26781.87,8389.23,2.6,Cash on Delivery,Delivered
+ORD10604,2025-08-08,Electronics,Headphones,Tamil Nadu,3,28242,15,72017.1,51633.13,20383.97,4.0,Cash on Delivery,Delivered
+ORD10605,2025-08-09,Sports,Cricket Bat,Karnataka,4,37969,0,151876.0,121895.48,29980.52,4.6,Cash on Delivery,Delivered
+ORD10606,2025-08-09,Home & Kitchen,Bedsheet,West Bengal,1,37838,0,37838.0,20851.8,16986.2,3.6,Cash on Delivery,Delivered
+ORD10607,2025-08-09,Fashion,T-Shirt,Delhi,2,26738,10,48128.4,31479.35,16649.05,2.9,Cash on Delivery,Cancelled
+ORD10608,2025-08-10,Home & Kitchen,Lamp,Delhi,3,13056,5,37209.6,24148.97,13060.63,3.2,Debit Card,Delivered
+ORD10609,2025-08-10,Sports,Cricket Bat,Telangana,3,26427,15,67388.85,47863.39,19525.46,3.8,Cash on Delivery,Delivered
+ORD10610,2025-08-10,Sports,Cricket Bat,Maharashtra,3,41382,10,111731.4,75848.26,35883.14,4.6,Debit Card,Delivered
+ORD10611,2025-08-11,Sports,Running Shoes,Karnataka,3,48540,20,116496.0,105885.09,10610.91,2.9,Credit Card,Delivered
+ORD10612,2025-08-11,Home & Kitchen,Mixer,Maharashtra,3,46393,15,118302.15,88855.81,29446.34,4.0,Cash on Delivery,Delivered
+ORD10613,2025-08-11,Beauty,Moisturizer,Delhi,3,9277,10,25047.9,19928.57,5119.33,4.4,Net Banking,Delivered
+ORD10614,2025-08-12,Fashion,Shoes,Gujarat,1,29970,15,25474.5,23687.38,1787.12,4.8,Cash on Delivery,Delivered
+ORD10615,2025-08-12,Beauty,Face Wash,Karnataka,4,5453,5,20721.4,15545.2,5176.2,2.8,Cash on Delivery,Returned
+ORD10616,2025-08-13,Beauty,Face Wash,Delhi,2,33530,10,60354.0,49458.35,10895.65,4.8,Net Banking,Delivered
+ORD10617,2025-08-13,Fashion,Jacket,Telangana,1,49618,5,47137.1,32186.5,14950.6,4.0,Credit Card,Delivered
+ORD10618,2025-08-13,Fashion,Shoes,West Bengal,2,2865,20,4584.0,3398.63,1185.37,4.4,UPI,Cancelled
+ORD10619,2025-08-14,Electronics,Laptop,Maharashtra,2,32914,15,55953.8,41903.32,14050.48,2.6,Credit Card,Delivered
+ORD10620,2025-08-14,Electronics,Smartwatch,Tamil Nadu,1,47289,20,37831.2,38320.94,-489.74,3.8,Cash on Delivery,Delivered
+ORD10621,2025-08-14,Home & Kitchen,Cookware Set,Maharashtra,4,42397,20,135670.4,121745.37,13925.03,4.1,Net Banking,Delivered
+ORD10622,2025-08-15,Home & Kitchen,Mixer,Gujarat,1,19776,20,15820.8,12358.58,3462.22,3.3,Debit Card,Delivered
+ORD10623,2025-08-15,Electronics,Smartwatch,West Bengal,2,5420,5,10298.0,7281.74,3016.26,3.6,Cash on Delivery,Delivered
+ORD10624,2025-08-15,Home & Kitchen,Mixer,Telangana,2,46214,20,73942.4,71686.1,2256.3,3.9,UPI,Delivered
+ORD10625,2025-08-16,Beauty,Moisturizer,Karnataka,4,46085,10,165906.0,134656.64,31249.36,3.9,Cash on Delivery,Delivered
+ORD10626,2025-08-16,Fashion,Jacket,Karnataka,3,29054,10,78445.8,61133.36,17312.44,2.6,Cash on Delivery,Cancelled
+ORD10627,2025-08-17,Fashion,Shoes,Telangana,4,48950,10,176220.0,154485.02,21734.98,3.6,Debit Card,Delivered
+ORD10628,2025-08-17,Fashion,Shoes,Telangana,1,479,5,455.05,350.42,104.63,3.0,Cash on Delivery,Delivered
+ORD10629,2025-08-17,Home & Kitchen,Cookware Set,Karnataka,4,30926,5,117518.8,89504.42,28014.38,4.8,Debit Card,Delivered
+ORD10630,2025-08-18,Fashion,T-Shirt,Maharashtra,4,2167,5,8234.6,5211.53,3023.07,4.9,Debit Card,Delivered
+ORD10631,2025-08-18,Beauty,Moisturizer,Gujarat,2,46800,0,93600.0,54168.65,39431.35,3.2,Cash on Delivery,Delivered
+ORD10632,2025-08-18,Fashion,Jacket,Tamil Nadu,3,34100,10,92070.0,82923.19,9146.81,2.9,Cash on Delivery,Delivered
+ORD10633,2025-08-19,Home & Kitchen,Mixer,Gujarat,1,45693,20,36554.4,32519.33,4035.07,3.0,Credit Card,Cancelled
+ORD10634,2025-08-19,Fashion,Jacket,West Bengal,4,28242,10,101671.2,74811.31,26859.89,3.7,Credit Card,Delivered
+ORD10635,2025-08-20,Electronics,Headphones,Telangana,4,4392,10,15811.2,12456.34,3354.86,4.7,Debit Card,Delivered
+ORD10636,2025-08-20,Beauty,Moisturizer,Telangana,2,1569,10,2824.2,1778.27,1045.93,3.8,Credit Card,Delivered
+ORD10637,2025-08-20,Fashion,T-Shirt,Maharashtra,3,16944,10,45748.8,39241.0,6507.8,2.6,Credit Card,Delivered
+ORD10638,2025-08-21,Fashion,Shoes,Telangana,2,37237,5,70750.3,45317.0,25433.3,2.6,Credit Card,Delivered
+ORD10639,2025-08-21,Beauty,Face Wash,Telangana,1,7763,15,6598.55,5955.99,642.56,3.1,Credit Card,Delivered
+ORD10640,2025-08-21,Sports,Football,Delhi,3,42644,5,121535.4,88820.91,32714.49,4.6,Debit Card,Delivered
+ORD10641,2025-08-22,Beauty,Moisturizer,Tamil Nadu,3,12164,15,31018.2,22795.62,8222.58,4.1,Debit Card,Delivered
+ORD10642,2025-08-22,Sports,Cricket Bat,Telangana,4,24946,15,84816.4,55695.11,29121.29,3.9,Cash on Delivery,Delivered
+ORD10643,2025-08-22,Sports,Football,West Bengal,4,10353,10,37270.8,31898.63,5372.17,3.3,Credit Card,Delivered
+ORD10644,2025-08-23,Home & Kitchen,Lamp,Gujarat,2,23421,20,37473.6,27994.85,9478.75,4.8,Net Banking,Delivered
+ORD10645,2025-08-23,Beauty,Face Wash,Maharashtra,4,22745,5,86431.0,51311.57,35119.43,3.3,Debit Card,Delivered
+ORD10646,2025-08-24,Fashion,Jeans,Tamil Nadu,3,522,20,1252.8,1180.9,71.9,4.6,Cash on Delivery,Delivered
+ORD10647,2025-08-24,Home & Kitchen,Cookware Set,Tamil Nadu,3,28498,15,72669.9,55101.88,17568.02,4.7,UPI,Delivered
+ORD10648,2025-08-24,Home & Kitchen,Lamp,Maharashtra,3,39385,15,100431.75,77405.73,23026.02,3.7,UPI,Delivered
+ORD10649,2025-08-25,Sports,Running Shoes,Telangana,4,46829,15,159218.6,115519.32,43699.28,4.7,Debit Card,Cancelled
+ORD10650,2025-08-25,Sports,Running Shoes,Karnataka,3,16703,15,42592.65,39184.15,3408.5,3.2,Credit Card,Delivered
+ORD10651,2025-08-25,Home & Kitchen,Mixer,West Bengal,1,44059,20,35247.2,27769.46,7477.74,4.1,Debit Card,Delivered
+ORD10652,2025-08-26,Beauty,Face Wash,Gujarat,1,43968,10,39571.2,26677.67,12893.53,2.7,UPI,Returned
+ORD10653,2025-08-26,Fashion,T-Shirt,Delhi,2,49422,15,84017.4,62617.42,21399.98,3.7,Debit Card,Delivered
+ORD10654,2025-08-26,Sports,Yoga Mat,Maharashtra,3,18809,15,47962.95,34129.89,13833.06,3.0,Cash on Delivery,Delivered
+ORD10655,2025-08-27,Home & Kitchen,Mixer,Maharashtra,3,42581,10,114968.7,81214.77,33753.93,2.7,Cash on Delivery,Delivered
+ORD10656,2025-08-27,Home & Kitchen,Mixer,Telangana,2,28362,20,45379.2,32468.41,12910.79,2.5,Credit Card,Delivered
+ORD10657,2025-08-28,Beauty,Shampoo,Delhi,3,3148,10,8499.6,5598.43,2901.17,3.3,Credit Card,Delivered
+ORD10658,2025-08-28,Beauty,Shampoo,Telangana,4,13699,10,49316.4,36308.06,13008.34,4.0,Debit Card,Returned
+ORD10659,2025-08-28,Electronics,Smartwatch,Karnataka,2,33684,0,67368.0,53049.34,14318.66,3.6,Debit Card,Delivered
+ORD10660,2025-08-29,Fashion,Jeans,West Bengal,2,8239,5,15654.1,9317.79,6336.31,3.3,Cash on Delivery,Delivered
+ORD10661,2025-08-29,Electronics,Smartphone,West Bengal,3,21877,15,55786.35,39865.72,15920.63,5.0,Credit Card,Delivered
+ORD10662,2025-08-29,Beauty,Moisturizer,Maharashtra,2,38801,10,69841.8,61713.25,8128.55,4.8,Cash on Delivery,Cancelled
+ORD10663,2025-08-30,Electronics,Laptop,Tamil Nadu,4,7700,10,27720.0,24341.36,3378.64,2.8,Net Banking,Delivered
+ORD10664,2025-08-30,Fashion,Shoes,West Bengal,4,24955,5,94829.0,73213.15,21615.85,3.5,Credit Card,Delivered
+ORD10665,2025-08-30,Home & Kitchen,Lamp,Delhi,3,10939,10,29535.3,20180.09,9355.21,4.1,Net Banking,Delivered
+ORD10666,2025-08-31,Beauty,Perfume,Maharashtra,2,26940,15,45798.0,35741.24,10056.76,4.3,Credit Card,Delivered
+ORD10667,2025-08-31,Home & Kitchen,Bedsheet,West Bengal,3,12225,20,29340.0,22262.81,7077.19,3.4,Credit Card,Delivered
+ORD10668,2025-09-01,Sports,Yoga Mat,Gujarat,1,48279,0,48279.0,28229.64,20049.36,4.4,Cash on Delivery,Delivered
+ORD10669,2025-09-01,Sports,Yoga Mat,Maharashtra,2,4065,10,7317.0,5305.63,2011.37,2.8,Cash on Delivery,Delivered
+ORD10670,2025-09-01,Electronics,Smartphone,Telangana,1,48188,10,43369.2,33995.28,9373.92,3.3,Debit Card,Delivered
+ORD10671,2025-09-02,Sports,Running Shoes,Tamil Nadu,1,39645,10,35680.5,25657.52,10022.98,4.3,Credit Card,Delivered
+ORD10672,2025-09-02,Beauty,Moisturizer,Maharashtra,1,42818,10,38536.2,30611.56,7924.64,4.1,UPI,Delivered
+ORD10673,2025-09-02,Beauty,Perfume,Karnataka,3,42612,10,115052.4,80535.25,34517.15,4.6,Net Banking,Delivered
+ORD10674,2025-09-03,Electronics,Smartwatch,Maharashtra,1,9583,10,8624.7,6165.51,2459.19,2.6,Net Banking,Delivered
+ORD10675,2025-09-03,Beauty,Moisturizer,West Bengal,3,46571,10,125741.7,106668.34,19073.36,2.9,Net Banking,Delivered
+ORD10676,2025-09-03,Beauty,Shampoo,Maharashtra,2,29815,10,53667.0,46937.45,6729.55,2.6,Debit Card,Delivered
+ORD10677,2025-09-04,Home & Kitchen,Mixer,Telangana,2,48117,10,86610.6,61296.17,25314.43,3.0,Net Banking,Delivered
+ORD10678,2025-09-04,Electronics,Headphones,Gujarat,4,43937,15,149385.8,123780.94,25604.86,2.5,Debit Card,Cancelled
+ORD10679,2025-09-05,Home & Kitchen,Bedsheet,Tamil Nadu,3,29085,15,74166.75,54543.43,19623.32,3.8,UPI,Delivered
+ORD10680,2025-09-05,Sports,Yoga Mat,Telangana,3,18879,5,53805.15,31965.94,21839.21,3.8,UPI,Delivered
+ORD10681,2025-09-05,Beauty,Shampoo,West Bengal,3,6085,15,15516.75,13677.04,1839.71,4.1,Credit Card,Delivered
+ORD10682,2025-09-06,Electronics,Laptop,Maharashtra,1,5280,20,4224.0,3147.78,1076.22,3.5,Credit Card,Cancelled
+ORD10683,2025-09-06,Sports,Cricket Bat,Maharashtra,1,19638,5,18656.1,13058.14,5597.96,2.5,Net Banking,Delivered
+ORD10684,2025-09-06,Sports,Running Shoes,Maharashtra,3,40595,10,109606.5,82996.76,26609.74,4.2,Credit Card,Delivered
+ORD10685,2025-09-07,Electronics,Headphones,Tamil Nadu,4,25390,5,96482.0,60916.43,35565.57,2.6,Cash on Delivery,Delivered
+ORD10686,2025-09-07,Sports,Yoga Mat,Gujarat,1,24217,15,20584.45,13937.61,6646.84,4.7,Credit Card,Delivered
+ORD10687,2025-09-07,Home & Kitchen,Cookware Set,Maharashtra,1,12411,5,11790.45,7992.23,3798.22,2.6,Cash on Delivery,Returned
+ORD10688,2025-09-08,Home & Kitchen,Cookware Set,Karnataka,4,28328,15,96315.2,91456.06,4859.14,3.8,Debit Card,Cancelled
+ORD10689,2025-09-08,Home & Kitchen,Bedsheet,Gujarat,4,31994,5,121577.2,91641.9,29935.3,4.7,UPI,Delivered
+ORD10690,2025-09-09,Beauty,Face Wash,Telangana,1,49111,10,44199.9,32068.54,12131.36,3.9,Debit Card,Delivered
+ORD10691,2025-09-09,Sports,Running Shoes,Delhi,2,36538,20,58460.8,40959.53,17501.27,4.0,UPI,Delivered
+ORD10692,2025-09-09,Beauty,Shampoo,West Bengal,3,30458,10,82236.6,65065.03,17171.57,4.2,Net Banking,Delivered
+ORD10693,2025-09-10,Sports,Yoga Mat,West Bengal,1,45526,20,36420.8,26173.33,10247.47,2.8,Cash on Delivery,Cancelled
+ORD10694,2025-09-10,Sports,Football,Telangana,2,21392,20,34227.2,29798.5,4428.7,4.2,Net Banking,Delivered
+ORD10695,2025-09-10,Electronics,Laptop,Gujarat,2,46763,20,74820.8,70427.57,4393.23,4.7,Net Banking,Delivered
+ORD10696,2025-09-11,Fashion,Shoes,West Bengal,3,18656,5,53169.6,37183.35,15986.25,4.9,Credit Card,Delivered
+ORD10697,2025-09-11,Beauty,Perfume,Telangana,2,6607,15,11231.9,8335.93,2895.97,3.6,Cash on Delivery,Delivered
+ORD10698,2025-09-11,Home & Kitchen,Mixer,Gujarat,2,21026,0,42052.0,23666.6,18385.4,3.4,UPI,Delivered
+ORD10699,2025-09-12,Electronics,Headphones,Gujarat,2,6656,10,11980.8,7410.66,4570.14,4.4,Net Banking,Delivered
+ORD10700,2025-09-12,Electronics,Smartwatch,Telangana,4,6140,20,19648.0,16359.59,3288.41,3.9,Cash on Delivery,Delivered
+ORD10701,2025-09-13,Home & Kitchen,Cookware Set,Gujarat,1,44090,15,37476.5,34765.11,2711.39,3.1,Cash on Delivery,Delivered
+ORD10702,2025-09-13,Beauty,Face Wash,Karnataka,1,39788,10,35809.2,24505.31,11303.89,2.9,Net Banking,Delivered
+ORD10703,2025-09-13,Electronics,Smartphone,West Bengal,1,11255,10,10129.5,7934.72,2194.78,2.9,Net Banking,Returned
+ORD10704,2025-09-14,Electronics,Laptop,Maharashtra,4,41926,15,142548.4,123222.62,19325.78,3.6,Net Banking,Delivered
+ORD10705,2025-09-14,Electronics,Smartwatch,Tamil Nadu,4,3677,15,12501.8,8330.97,4170.83,2.9,UPI,Delivered
+ORD10706,2025-09-14,Home & Kitchen,Bedsheet,Tamil Nadu,3,14398,10,38874.6,25542.21,13332.39,2.5,UPI,Delivered
+ORD10707,2025-09-15,Electronics,Smartwatch,Tamil Nadu,1,35378,20,28302.4,22622.28,5680.12,2.6,Net Banking,Delivered
+ORD10708,2025-09-15,Home & Kitchen,Bedsheet,Maharashtra,4,15363,5,58379.4,44916.81,13462.59,4.8,Credit Card,Delivered
+ORD10709,2025-09-15,Home & Kitchen,Mixer,Gujarat,2,36592,5,69524.8,48926.39,20598.41,2.7,Debit Card,Delivered
+ORD10710,2025-09-16,Home & Kitchen,Mixer,West Bengal,4,43748,10,157492.8,130934.73,26558.07,2.7,UPI,Delivered
+ORD10711,2025-09-16,Beauty,Perfume,Karnataka,2,3536,20,5657.6,5546.23,111.37,3.6,Cash on Delivery,Delivered
+ORD10712,2025-09-17,Home & Kitchen,Cookware Set,Tamil Nadu,4,1442,5,5479.6,4353.46,1126.14,3.1,Net Banking,Cancelled
+ORD10713,2025-09-17,Beauty,Shampoo,West Bengal,4,47015,5,178657.0,153815.54,24841.46,4.9,Net Banking,Delivered
+ORD10714,2025-09-17,Beauty,Moisturizer,West Bengal,1,26142,0,26142.0,19702.64,6439.36,4.8,Debit Card,Delivered
+ORD10715,2025-09-18,Sports,Yoga Mat,Gujarat,3,25447,20,61072.8,59552.73,1520.07,3.5,Cash on Delivery,Delivered
+ORD10716,2025-09-18,Beauty,Shampoo,Delhi,2,23317,5,44302.3,36129.17,8173.13,3.6,Debit Card,Delivered
+ORD10717,2025-09-18,Home & Kitchen,Lamp,Tamil Nadu,2,21822,10,39279.6,32609.56,6670.04,3.4,Debit Card,Delivered
+ORD10718,2025-09-19,Home & Kitchen,Cookware Set,Gujarat,2,34583,20,55332.8,53014.8,2318.0,2.6,Debit Card,Delivered
+ORD10719,2025-09-19,Fashion,Jeans,Tamil Nadu,3,29092,0,87276.0,70027.16,17248.84,3.2,Net Banking,Delivered
+ORD10720,2025-09-19,Home & Kitchen,Lamp,Telangana,2,8378,10,15080.4,11365.7,3714.7,2.8,Credit Card,Delivered
+ORD10721,2025-09-20,Electronics,Laptop,Tamil Nadu,3,31425,10,84847.5,68098.37,16749.13,2.8,Debit Card,Delivered
+ORD10722,2025-09-20,Sports,Yoga Mat,Karnataka,3,33499,15,85422.45,69245.82,16176.63,3.9,Cash on Delivery,Delivered
+ORD10723,2025-09-21,Sports,Yoga Mat,Telangana,4,5901,10,21243.6,18405.93,2837.67,2.7,Debit Card,Delivered
+ORD10724,2025-09-21,Electronics,Smartphone,Gujarat,4,18992,10,68371.2,50630.17,17741.03,2.8,UPI,Delivered
+ORD10725,2025-09-21,Beauty,Moisturizer,West Bengal,1,39577,5,37598.15,30526.78,7071.37,3.7,Credit Card,Delivered
+ORD10726,2025-09-22,Electronics,Smartwatch,Tamil Nadu,4,31031,15,105505.4,95057.35,10448.05,3.6,Cash on Delivery,Delivered
+ORD10727,2025-09-22,Beauty,Shampoo,West Bengal,1,7034,15,5978.9,5695.49,283.41,2.8,Cash on Delivery,Delivered
+ORD10728,2025-09-22,Electronics,Smartphone,West Bengal,3,2244,0,6732.0,4155.05,2576.95,2.5,Cash on Delivery,Delivered
+ORD10729,2025-09-23,Home & Kitchen,Cookware Set,West Bengal,2,29165,10,52497.0,43257.37,9239.63,3.0,Net Banking,Delivered
+ORD10730,2025-09-23,Beauty,Face Wash,Telangana,3,23220,20,55728.0,52549.29,3178.71,3.1,Cash on Delivery,Delivered
+ORD10731,2025-09-23,Beauty,Shampoo,Tamil Nadu,3,48062,0,144186.0,115751.83,28434.17,4.5,Debit Card,Delivered
+ORD10732,2025-09-24,Home & Kitchen,Bedsheet,Maharashtra,4,26231,5,99677.8,83400.27,16277.53,4.8,Credit Card,Delivered
+ORD10733,2025-09-24,Sports,Yoga Mat,Delhi,2,46591,10,83863.8,65679.52,18184.28,3.5,Credit Card,Cancelled
+ORD10734,2025-09-25,Beauty,Shampoo,Gujarat,4,10912,5,41465.6,30831.7,10633.9,3.5,Net Banking,Delivered
+ORD10735,2025-09-25,Fashion,Jacket,Telangana,2,22505,5,42759.5,26788.54,15970.96,4.3,Debit Card,Delivered
+ORD10736,2025-09-25,Beauty,Shampoo,Tamil Nadu,1,7196,10,6476.4,5852.07,624.33,4.1,Cash on Delivery,Returned
+ORD10737,2025-09-26,Beauty,Moisturizer,Gujarat,2,28817,5,54752.3,35667.07,19085.23,3.0,UPI,Delivered
+ORD10738,2025-09-26,Fashion,T-Shirt,Karnataka,3,9626,10,25990.2,21533.71,4456.49,2.8,UPI,Delivered
+ORD10739,2025-09-26,Beauty,Face Wash,Telangana,3,24740,15,63087.0,56768.25,6318.75,3.6,Credit Card,Delivered
+ORD10740,2025-09-27,Sports,Cricket Bat,Gujarat,4,17371,10,62535.6,46493.7,16041.9,3.9,UPI,Delivered
+ORD10741,2025-09-27,Sports,Football,Maharashtra,1,9490,0,9490.0,5760.64,3729.36,2.8,Cash on Delivery,Delivered
+ORD10742,2025-09-27,Beauty,Moisturizer,Karnataka,2,5066,15,8612.2,6089.53,2522.67,3.2,Cash on Delivery,Delivered
+ORD10743,2025-09-28,Beauty,Perfume,West Bengal,4,25724,5,97751.2,80387.9,17363.3,3.3,Debit Card,Delivered
+ORD10744,2025-09-28,Fashion,T-Shirt,Maharashtra,2,47379,15,80544.3,65184.43,15359.87,3.2,Credit Card,Delivered
+ORD10745,2025-09-29,Beauty,Face Wash,Delhi,1,10137,10,9123.3,5822.05,3301.25,3.7,Debit Card,Delivered
+ORD10746,2025-09-29,Fashion,Jacket,Gujarat,4,20398,15,69353.2,60671.42,8681.78,4.1,UPI,Delivered
+ORD10747,2025-09-29,Home & Kitchen,Bedsheet,Maharashtra,2,11424,5,21705.6,14109.7,7595.9,3.8,Debit Card,Delivered
+ORD10748,2025-09-30,Fashion,Jeans,Karnataka,4,40496,5,153884.8,127420.92,26463.88,3.0,UPI,Delivered
+ORD10749,2025-09-30,Fashion,Jacket,West Bengal,4,20891,10,75207.6,52944.85,22262.75,2.8,UPI,Delivered
+ORD10750,2025-09-30,Electronics,Smartphone,Tamil Nadu,4,48727,0,194908.0,117738.68,77169.32,4.6,UPI,Delivered
+ORD10751,2025-10-01,Sports,Running Shoes,Karnataka,3,12447,5,35473.95,21393.1,14080.85,3.7,UPI,Delivered
+ORD10752,2025-10-01,Electronics,Smartwatch,Karnataka,4,4266,15,14504.4,11741.97,2762.43,2.7,Debit Card,Delivered
+ORD10753,2025-10-02,Electronics,Smartphone,Delhi,4,29230,15,99382.0,78535.06,20846.94,3.1,Debit Card,Delivered
+ORD10754,2025-10-02,Sports,Football,Telangana,2,32670,0,65340.0,49191.5,16148.5,4.5,Cash on Delivery,Cancelled
+ORD10755,2025-10-02,Home & Kitchen,Lamp,Telangana,1,49539,20,39631.2,33460.76,6170.44,4.4,Debit Card,Delivered
+ORD10756,2025-10-03,Home & Kitchen,Cookware Set,Karnataka,2,43602,15,74123.4,56057.37,18066.03,4.7,UPI,Delivered
+ORD10757,2025-10-03,Beauty,Perfume,Telangana,3,44237,20,106168.8,82366.66,23802.14,4.0,UPI,Delivered
+ORD10758,2025-10-03,Fashion,Shoes,West Bengal,3,31803,15,81097.65,59640.13,21457.52,3.6,Cash on Delivery,Cancelled
+ORD10759,2025-10-04,Electronics,Smartphone,Karnataka,1,18150,15,15427.5,14529.42,898.08,3.6,Net Banking,Delivered
+ORD10760,2025-10-04,Beauty,Moisturizer,Maharashtra,3,21594,10,58303.8,38517.51,19786.29,3.0,Credit Card,Delivered
+ORD10761,2025-10-04,Electronics,Headphones,West Bengal,1,6903,15,5867.55,5638.42,229.13,4.1,Credit Card,Delivered
+ORD10762,2025-10-05,Home & Kitchen,Cookware Set,Gujarat,3,21696,20,52070.4,41543.6,10526.8,4.0,Credit Card,Delivered
+ORD10763,2025-10-05,Sports,Cricket Bat,Telangana,3,18380,0,55140.0,31642.94,23497.06,2.9,Credit Card,Cancelled
+ORD10764,2025-10-06,Sports,Yoga Mat,Delhi,3,2035,5,5799.75,3767.68,2032.07,4.7,Credit Card,Delivered
+ORD10765,2025-10-06,Fashion,Shoes,Delhi,2,10422,0,20844.0,11792.95,9051.05,3.4,Debit Card,Delivered
+ORD10766,2025-10-06,Beauty,Shampoo,Karnataka,2,26846,20,42953.6,40983.54,1970.06,2.6,Cash on Delivery,Delivered
+ORD10767,2025-10-07,Beauty,Moisturizer,Karnataka,3,18624,10,50284.8,38461.69,11823.11,3.3,Cash on Delivery,Delivered
+ORD10768,2025-10-07,Home & Kitchen,Cookware Set,Gujarat,3,49678,15,126678.9,95528.77,31150.13,4.7,Net Banking,Delivered
+ORD10769,2025-10-07,Electronics,Laptop,Maharashtra,4,24056,15,81790.4,70123.57,11666.83,4.8,Credit Card,Delivered
+ORD10770,2025-10-08,Fashion,T-Shirt,Telangana,2,47945,20,76712.0,69067.13,7644.87,3.7,Debit Card,Delivered
+ORD10771,2025-10-08,Beauty,Perfume,Gujarat,2,33120,5,62928.0,53241.42,9686.58,4.9,Credit Card,Delivered
+ORD10772,2025-10-08,Sports,Football,West Bengal,2,2259,15,3840.3,3657.5,182.8,4.7,UPI,Delivered
+ORD10773,2025-10-09,Electronics,Headphones,Gujarat,3,10371,20,24890.4,22830.24,2060.16,4.6,Credit Card,Delivered
+ORD10774,2025-10-09,Beauty,Perfume,Delhi,1,35363,0,35363.0,27258.16,8104.84,4.6,Credit Card,Returned
+ORD10775,2025-10-10,Sports,Running Shoes,Gujarat,2,27369,15,46527.3,41817.36,4709.94,3.5,Debit Card,Delivered
+ORD10776,2025-10-10,Sports,Cricket Bat,Karnataka,1,15262,10,13735.8,10418.63,3317.17,4.4,UPI,Delivered
+ORD10777,2025-10-10,Home & Kitchen,Cookware Set,Telangana,3,26223,10,70802.1,58231.09,12571.01,3.9,Cash on Delivery,Delivered
+ORD10778,2025-10-11,Electronics,Laptop,Telangana,4,45173,10,162622.8,103198.61,59424.19,4.3,Net Banking,Delivered
+ORD10779,2025-10-11,Fashion,Jeans,Karnataka,4,19588,5,74434.4,59129.57,15304.83,2.9,Net Banking,Delivered
+ORD10780,2025-10-11,Sports,Yoga Mat,Tamil Nadu,2,2494,0,4988.0,4038.76,949.24,4.3,UPI,Delivered
+ORD10781,2025-10-12,Sports,Cricket Bat,Gujarat,1,15720,0,15720.0,9006.67,6713.33,4.9,UPI,Delivered
+ORD10782,2025-10-12,Beauty,Perfume,Karnataka,1,46809,0,46809.0,36312.14,10496.86,3.3,Net Banking,Delivered
+ORD10783,2025-10-12,Electronics,Laptop,Maharashtra,1,38148,10,34333.2,30591.06,3742.14,5.0,Net Banking,Delivered
+ORD10784,2025-10-13,Electronics,Smartwatch,Telangana,4,41914,10,150890.4,102449.72,48440.68,3.4,Debit Card,Delivered
+ORD10785,2025-10-13,Home & Kitchen,Lamp,Karnataka,4,45602,5,173287.6,126171.43,47116.17,3.0,Credit Card,Delivered
+ORD10786,2025-10-14,Home & Kitchen,Mixer,Gujarat,3,6095,15,15542.25,14637.54,904.71,2.8,Debit Card,Delivered
+ORD10787,2025-10-14,Electronics,Laptop,Karnataka,1,14312,15,12165.2,11582.14,583.06,4.5,Debit Card,Delivered
+ORD10788,2025-10-14,Beauty,Face Wash,Tamil Nadu,1,3226,10,2903.4,1885.69,1017.71,3.9,Net Banking,Delivered
+ORD10789,2025-10-15,Home & Kitchen,Cookware Set,Maharashtra,4,485,20,1552.0,1249.81,302.19,3.3,Debit Card,Delivered
+ORD10790,2025-10-15,Electronics,Smartwatch,Delhi,2,41776,10,75196.8,61703.07,13493.73,4.0,UPI,Delivered
+ORD10791,2025-10-15,Electronics,Smartphone,Gujarat,1,46863,15,39833.55,28578.03,11255.52,3.3,Cash on Delivery,Delivered
+ORD10792,2025-10-16,Home & Kitchen,Bedsheet,Gujarat,1,7998,0,7998.0,5100.23,2897.77,3.6,Cash on Delivery,Delivered
+ORD10793,2025-10-16,Beauty,Perfume,Tamil Nadu,2,36177,15,61500.9,40249.7,21251.2,4.7,Credit Card,Delivered
+ORD10794,2025-10-16,Sports,Football,Karnataka,3,26861,20,64466.4,47660.88,16805.52,4.2,UPI,Delivered
+ORD10795,2025-10-17,Home & Kitchen,Cookware Set,Gujarat,4,3693,15,12556.2,10367.42,2188.78,4.4,UPI,Delivered
+ORD10796,2025-10-17,Fashion,T-Shirt,Telangana,2,45808,10,82454.4,66543.84,15910.56,4.0,Net Banking,Delivered
+ORD10797,2025-10-18,Sports,Running Shoes,Delhi,3,43594,10,117703.8,94843.92,22859.88,5.0,Debit Card,Delivered
+ORD10798,2025-10-18,Home & Kitchen,Mixer,Karnataka,1,28480,10,25632.0,21649.28,3982.72,3.1,Debit Card,Delivered
+ORD10799,2025-10-18,Fashion,Jeans,Telangana,1,35467,15,30146.95,23483.62,6663.33,3.2,Net Banking,Delivered
+ORD10800,2025-10-19,Home & Kitchen,Lamp,Telangana,1,20012,15,17010.2,12484.34,4525.86,2.7,UPI,Delivered
+ORD10801,2025-10-19,Electronics,Laptop,Tamil Nadu,4,39693,20,127017.6,87992.52,39025.08,3.9,Credit Card,Delivered
+ORD10802,2025-10-19,Fashion,Jeans,Telangana,3,22389,10,60450.3,40689.1,19761.2,4.0,Net Banking,Delivered
+ORD10803,2025-10-20,Home & Kitchen,Cookware Set,Telangana,4,49461,0,197844.0,125501.29,72342.71,4.3,Debit Card,Delivered
+ORD10804,2025-10-20,Sports,Football,Telangana,1,3390,10,3051.0,2027.61,1023.39,3.3,UPI,Delivered
+ORD10805,2025-10-20,Beauty,Face Wash,Gujarat,1,8814,0,8814.0,4895.64,3918.36,2.5,Cash on Delivery,Cancelled
+ORD10806,2025-10-21,Beauty,Face Wash,Maharashtra,4,48445,5,184091.0,114816.75,69274.25,4.1,UPI,Delivered
+ORD10807,2025-10-21,Home & Kitchen,Mixer,Tamil Nadu,1,14616,5,13885.2,10667.44,3217.76,5.0,Cash on Delivery,Delivered
+ORD10808,2025-10-22,Electronics,Headphones,Karnataka,1,15705,15,13349.25,11307.41,2041.84,3.2,Cash on Delivery,Returned
+ORD10809,2025-10-22,Fashion,T-Shirt,Telangana,3,39615,5,112902.75,95389.11,17513.64,3.0,Net Banking,Delivered
+ORD10810,2025-10-22,Sports,Running Shoes,Gujarat,3,9670,5,27559.5,22207.31,5352.19,3.2,Debit Card,Delivered
+ORD10811,2025-10-23,Electronics,Laptop,West Bengal,1,25798,0,25798.0,18143.58,7654.42,3.6,Credit Card,Delivered
+ORD10812,2025-10-23,Sports,Yoga Mat,Tamil Nadu,2,14480,20,23168.0,17003.58,6164.42,3.1,Net Banking,Delivered
+ORD10813,2025-10-23,Beauty,Moisturizer,Gujarat,3,10097,15,25747.35,21273.35,4474.0,3.4,Debit Card,Delivered
+ORD10814,2025-10-24,Fashion,Jeans,West Bengal,2,48227,0,96454.0,54653.79,41800.21,4.1,Cash on Delivery,Delivered
+ORD10815,2025-10-24,Beauty,Shampoo,Gujarat,2,10194,0,20388.0,13585.32,6802.68,3.4,UPI,Delivered
+ORD10816,2025-10-24,Sports,Cricket Bat,Delhi,1,4940,10,4446.0,3237.53,1208.47,3.5,Cash on Delivery,Delivered
+ORD10817,2025-10-25,Electronics,Laptop,Delhi,2,33778,5,64178.2,44959.18,19219.02,2.6,Debit Card,Delivered
+ORD10818,2025-10-25,Electronics,Headphones,West Bengal,4,43398,10,156232.8,108591.0,47641.8,4.8,Credit Card,Delivered
+ORD10819,2025-10-26,Beauty,Face Wash,Telangana,3,6592,10,17798.4,14538.81,3259.59,3.5,Cash on Delivery,Delivered
+ORD10820,2025-10-26,Sports,Football,Karnataka,4,35465,20,113488.0,110233.02,3254.98,3.3,UPI,Returned
+ORD10821,2025-10-26,Electronics,Headphones,Gujarat,1,27154,5,25796.3,20569.14,5227.16,2.7,Cash on Delivery,Delivered
+ORD10822,2025-10-27,Beauty,Shampoo,Delhi,1,41543,15,35311.55,29889.9,5421.65,4.1,Net Banking,Returned
+ORD10823,2025-10-27,Electronics,Headphones,Tamil Nadu,3,6565,0,19695.0,13694.98,6000.02,4.7,Debit Card,Delivered
+ORD10824,2025-10-27,Beauty,Shampoo,Maharashtra,1,48800,20,39040.0,27249.57,11790.43,2.6,UPI,Delivered
+ORD10825,2025-10-28,Beauty,Shampoo,Tamil Nadu,3,31050,20,74520.0,69414.65,5105.35,2.9,Debit Card,Delivered
+ORD10826,2025-10-28,Electronics,Smartwatch,Telangana,4,42147,15,143299.8,117530.35,25769.45,2.9,Debit Card,Delivered
+ORD10827,2025-10-28,Beauty,Face Wash,Karnataka,2,18257,10,32862.6,22751.88,10110.72,4.0,Debit Card,Delivered
+ORD10828,2025-10-29,Sports,Running Shoes,Karnataka,3,47183,5,134471.55,90381.49,44090.06,4.8,Credit Card,Cancelled
+ORD10829,2025-10-29,Sports,Yoga Mat,Tamil Nadu,3,31411,15,80098.05,75632.71,4465.34,3.6,Cash on Delivery,Delivered
+ORD10830,2025-10-30,Electronics,Smartwatch,Karnataka,1,6565,15,5580.25,4717.46,862.79,3.4,Credit Card,Delivered
+ORD10831,2025-10-30,Fashion,Jeans,West Bengal,4,46164,5,175423.2,125288.42,50134.78,4.4,Debit Card,Delivered
+ORD10832,2025-10-30,Fashion,Jacket,Telangana,1,39840,10,35856.0,28591.13,7264.87,4.4,Debit Card,Delivered
+ORD10833,2025-10-31,Home & Kitchen,Lamp,West Bengal,4,15185,10,54666.0,40192.29,14473.71,3.1,Cash on Delivery,Delivered
+ORD10834,2025-10-31,Electronics,Laptop,Gujarat,3,27397,15,69862.35,55639.13,14223.22,2.9,Cash on Delivery,Returned
+ORD10835,2025-10-31,Sports,Football,West Bengal,1,19555,15,16621.75,12288.04,4333.71,3.4,Net Banking,Delivered
+ORD10836,2025-11-01,Beauty,Face Wash,Maharashtra,3,27288,10,73677.6,54747.4,18930.2,4.4,Cash on Delivery,Delivered
+ORD10837,2025-11-01,Sports,Running Shoes,Delhi,1,48277,10,43449.3,35488.9,7960.4,4.2,Cash on Delivery,Delivered
+ORD10838,2025-11-01,Electronics,Headphones,Maharashtra,3,44971,5,128167.35,75657.09,52510.26,4.2,Net Banking,Delivered
+ORD10839,2025-11-02,Electronics,Laptop,Tamil Nadu,4,10973,10,39502.8,33562.34,5940.46,4.6,Credit Card,Returned
+ORD10840,2025-11-02,Sports,Yoga Mat,Gujarat,4,48597,0,194388.0,121765.51,72622.49,3.2,Credit Card,Cancelled
+ORD10841,2025-11-03,Fashion,Jeans,Delhi,4,22037,15,74925.8,64726.3,10199.5,3.3,Debit Card,Delivered
+ORD10842,2025-11-03,Beauty,Face Wash,Delhi,2,35315,10,63567.0,51103.34,12463.66,2.6,Debit Card,Returned
+ORD10843,2025-11-03,Sports,Running Shoes,Tamil Nadu,3,38270,10,103329.0,83376.12,19952.88,4.7,Cash on Delivery,Delivered
+ORD10844,2025-11-04,Electronics,Smartwatch,Karnataka,2,24276,5,46124.4,34675.59,11448.81,4.0,UPI,Delivered
+ORD10845,2025-11-04,Electronics,Smartphone,Gujarat,4,22968,5,87278.4,74320.54,12957.86,3.2,UPI,Delivered
+ORD10846,2025-11-04,Electronics,Smartphone,Tamil Nadu,2,22956,10,41320.8,31553.16,9767.64,2.7,Cash on Delivery,Delivered
+ORD10847,2025-11-05,Electronics,Headphones,Karnataka,4,43161,5,164011.8,129090.44,34921.36,4.3,Net Banking,Delivered
+ORD10848,2025-11-05,Electronics,Smartphone,Karnataka,2,19470,0,38940.0,28833.95,10106.05,4.4,Credit Card,Delivered
+ORD10849,2025-11-05,Sports,Yoga Mat,Delhi,3,14176,15,36148.8,26103.36,10045.44,4.2,Credit Card,Delivered
+ORD10850,2025-11-06,Beauty,Face Wash,Tamil Nadu,1,18239,10,16415.1,11426.6,4988.5,3.0,Debit Card,Returned
+ORD10851,2025-11-06,Sports,Cricket Bat,Karnataka,3,9945,10,26851.5,19824.9,7026.6,4.8,Debit Card,Returned
+ORD10852,2025-11-07,Sports,Football,Delhi,1,19727,10,17754.3,12328.95,5425.35,4.4,UPI,Delivered
+ORD10853,2025-11-07,Sports,Football,Gujarat,1,5925,15,5036.25,3845.45,1190.8,4.1,Debit Card,Delivered
+ORD10854,2025-11-07,Fashion,T-Shirt,Karnataka,2,4715,5,8958.5,6181.92,2776.58,4.1,Net Banking,Delivered
+ORD10855,2025-11-08,Fashion,T-Shirt,Gujarat,2,36261,15,61643.7,51711.34,9932.36,4.8,Cash on Delivery,Delivered
+ORD10856,2025-11-08,Sports,Running Shoes,Maharashtra,3,4102,20,9844.8,7498.91,2345.89,4.8,Net Banking,Delivered
+ORD10857,2025-11-08,Fashion,Jeans,Maharashtra,2,28518,15,48480.6,43755.67,4724.93,4.0,Cash on Delivery,Delivered
+ORD10858,2025-11-09,Electronics,Smartphone,Karnataka,1,39048,10,35143.2,26089.33,9053.87,3.5,Net Banking,Delivered
+ORD10859,2025-11-09,Beauty,Moisturizer,Delhi,2,36292,15,61696.4,53761.95,7934.45,3.4,Credit Card,Delivered
+ORD10860,2025-11-09,Sports,Yoga Mat,Maharashtra,2,22442,10,40395.6,25673.18,14722.42,4.5,UPI,Delivered
+ORD10861,2025-11-10,Sports,Yoga Mat,West Bengal,3,9883,10,26684.1,20069.13,6614.97,4.1,UPI,Delivered
+ORD10862,2025-11-10,Sports,Football,Delhi,3,46551,10,125687.7,77873.2,47814.5,2.7,Net Banking,Cancelled
+ORD10863,2025-11-11,Electronics,Smartwatch,Telangana,1,41799,5,39709.05,30617.59,9091.46,2.9,Cash on Delivery,Delivered
+ORD10864,2025-11-11,Beauty,Perfume,West Bengal,3,30707,0,92121.0,59215.54,32905.46,4.8,Credit Card,Delivered
+ORD10865,2025-11-11,Sports,Running Shoes,Telangana,3,4566,10,12328.2,11044.67,1283.53,4.7,Net Banking,Delivered
+ORD10866,2025-11-12,Beauty,Perfume,Telangana,4,2000,0,8000.0,5100.11,2899.89,4.9,Credit Card,Delivered
+ORD10867,2025-11-12,Sports,Cricket Bat,Maharashtra,3,15932,10,43016.4,33563.67,9452.73,3.6,Debit Card,Delivered
+ORD10868,2025-11-12,Sports,Running Shoes,Delhi,4,8086,10,29109.6,20036.93,9072.67,4.5,Credit Card,Delivered
+ORD10869,2025-11-13,Home & Kitchen,Mixer,Telangana,1,43052,20,34441.6,30886.81,3554.79,4.6,UPI,Delivered
+ORD10870,2025-11-13,Electronics,Smartwatch,Tamil Nadu,3,10489,0,31467.0,21274.88,10192.12,3.3,Credit Card,Delivered
+ORD10871,2025-11-13,Home & Kitchen,Mixer,Maharashtra,1,14311,10,12879.9,9303.15,3576.75,2.9,Credit Card,Delivered
+ORD10872,2025-11-14,Fashion,T-Shirt,Gujarat,1,48792,10,43912.8,29518.97,14393.83,5.0,Debit Card,Delivered
+ORD10873,2025-11-14,Electronics,Smartphone,Telangana,4,40958,0,163832.0,95040.71,68791.29,2.6,UPI,Delivered
+ORD10874,2025-11-15,Electronics,Smartwatch,Telangana,2,11130,5,21147.0,12963.5,8183.5,4.0,Credit Card,Delivered
+ORD10875,2025-11-15,Beauty,Perfume,Delhi,3,19331,0,57993.0,47539.23,10453.77,4.1,Debit Card,Delivered
+ORD10876,2025-11-15,Home & Kitchen,Mixer,Karnataka,3,25908,5,73837.8,51400.74,22437.06,4.2,Credit Card,Delivered
+ORD10877,2025-11-16,Home & Kitchen,Mixer,Delhi,3,33297,5,94896.45,54992.1,39904.35,3.1,Cash on Delivery,Delivered
+ORD10878,2025-11-16,Beauty,Shampoo,Delhi,1,46824,10,42141.6,37800.58,4341.02,4.3,Cash on Delivery,Delivered
+ORD10879,2025-11-16,Home & Kitchen,Lamp,Delhi,1,43588,10,39229.2,24208.54,15020.66,3.0,Net Banking,Delivered
+ORD10880,2025-11-17,Beauty,Face Wash,Delhi,1,48865,0,48865.0,32398.39,16466.61,4.6,Net Banking,Delivered
+ORD10881,2025-11-17,Electronics,Headphones,Gujarat,4,2272,5,8633.6,6758.92,1874.68,3.0,Credit Card,Delivered
+ORD10882,2025-11-18,Sports,Football,Maharashtra,1,12008,0,12008.0,9569.68,2438.32,4.2,Cash on Delivery,Delivered
+ORD10883,2025-11-18,Home & Kitchen,Mixer,Karnataka,3,28259,10,76299.3,62945.17,13354.13,4.5,Cash on Delivery,Delivered
+ORD10884,2025-11-18,Electronics,Smartwatch,Delhi,2,2693,5,5116.7,3636.51,1480.19,3.0,Debit Card,Delivered
+ORD10885,2025-11-19,Sports,Yoga Mat,Karnataka,1,17928,10,16135.2,14577.25,1557.95,3.1,Cash on Delivery,Returned
+ORD10886,2025-11-19,Beauty,Face Wash,West Bengal,2,7891,5,14992.9,8847.65,6145.25,4.4,UPI,Returned
+ORD10887,2025-11-19,Electronics,Smartphone,Tamil Nadu,1,46662,0,46662.0,38097.7,8564.3,2.7,Credit Card,Delivered
+ORD10888,2025-11-20,Electronics,Headphones,West Bengal,1,3400,20,2720.0,2649.74,70.26,3.0,Net Banking,Delivered
+ORD10889,2025-11-20,Electronics,Laptop,Gujarat,1,7633,0,7633.0,6112.59,1520.41,3.6,Net Banking,Delivered
+ORD10890,2025-11-20,Fashion,Jeans,Maharashtra,4,9957,0,39828.0,24645.11,15182.89,4.8,UPI,Delivered
+ORD10891,2025-11-21,Electronics,Laptop,West Bengal,3,7642,0,22926.0,13491.12,9434.88,3.9,Debit Card,Delivered
+ORD10892,2025-11-21,Beauty,Face Wash,Gujarat,4,28536,20,91315.2,83221.83,8093.37,3.5,Credit Card,Delivered
+ORD10893,2025-11-22,Home & Kitchen,Bedsheet,Tamil Nadu,2,18376,10,33076.8,25332.49,7744.31,4.9,UPI,Delivered
+ORD10894,2025-11-22,Sports,Yoga Mat,Delhi,1,45644,10,41079.6,31551.66,9527.94,3.7,UPI,Delivered
+ORD10895,2025-11-22,Beauty,Face Wash,Gujarat,3,13225,20,31740.0,31726.0,14.0,3.6,Debit Card,Delivered
+ORD10896,2025-11-23,Beauty,Shampoo,Gujarat,4,26976,0,107904.0,77412.69,30491.31,3.5,Cash on Delivery,Delivered
+ORD10897,2025-11-23,Home & Kitchen,Lamp,Karnataka,3,33089,20,79413.6,62934.01,16479.59,3.3,Debit Card,Cancelled
+ORD10898,2025-11-23,Electronics,Smartwatch,Gujarat,1,31392,5,29822.4,20656.5,9165.9,3.3,Credit Card,Delivered
+ORD10899,2025-11-24,Electronics,Smartphone,Telangana,2,39870,10,71766.0,46731.14,25034.86,4.2,Cash on Delivery,Delivered
+ORD10900,2025-11-24,Beauty,Perfume,Maharashtra,4,10292,10,37051.2,24780.04,12271.16,2.6,Cash on Delivery,Returned
+ORD10901,2025-11-24,Electronics,Smartphone,Maharashtra,3,25495,10,68836.5,45027.07,23809.43,4.2,Net Banking,Delivered
+ORD10902,2025-11-25,Electronics,Smartphone,Telangana,4,40079,20,128252.8,123247.52,5005.28,3.0,Credit Card,Delivered
+ORD10903,2025-11-25,Fashion,Shoes,Gujarat,3,43185,0,129555.0,95911.62,33643.38,3.5,Credit Card,Delivered
+ORD10904,2025-11-26,Sports,Cricket Bat,West Bengal,1,30984,20,24787.2,21477.9,3309.3,2.9,Debit Card,Delivered
+ORD10905,2025-11-26,Home & Kitchen,Cookware Set,Tamil Nadu,4,32681,10,117651.6,85111.69,32539.91,3.9,Debit Card,Delivered
+ORD10906,2025-11-26,Beauty,Face Wash,Tamil Nadu,4,43240,10,155664.0,126346.15,29317.85,4.3,Debit Card,Delivered
+ORD10907,2025-11-27,Home & Kitchen,Cookware Set,West Bengal,3,31337,20,75208.8,72340.0,2868.8,3.4,Net Banking,Delivered
+ORD10908,2025-11-27,Electronics,Laptop,Tamil Nadu,4,47454,0,189816.0,149562.28,40253.72,2.9,UPI,Delivered
+ORD10909,2025-11-27,Fashion,T-Shirt,Delhi,1,6597,20,5277.6,4602.69,674.91,3.1,Debit Card,Returned
+ORD10910,2025-11-28,Electronics,Smartwatch,Gujarat,4,17558,10,63208.8,54174.79,9034.01,4.5,Debit Card,Delivered
+ORD10911,2025-11-28,Beauty,Face Wash,Karnataka,1,5831,15,4956.35,4012.03,944.32,3.2,Credit Card,Delivered
+ORD10912,2025-11-28,Electronics,Smartwatch,Delhi,4,4756,0,19024.0,12900.61,6123.39,4.4,Cash on Delivery,Delivered
+ORD10913,2025-11-29,Fashion,T-Shirt,Tamil Nadu,1,23729,10,21356.1,18595.62,2760.48,3.3,Net Banking,Delivered
+ORD10914,2025-11-29,Sports,Running Shoes,Karnataka,3,11489,15,29296.95,22552.48,6744.47,3.0,Debit Card,Delivered
+ORD10915,2025-11-30,Home & Kitchen,Cookware Set,Tamil Nadu,4,20506,10,73821.6,53881.27,19940.33,4.3,UPI,Delivered
+ORD10916,2025-11-30,Home & Kitchen,Lamp,Tamil Nadu,1,22032,5,20930.4,13931.41,6998.99,3.7,UPI,Cancelled
+ORD10917,2025-11-30,Home & Kitchen,Cookware Set,Delhi,1,31140,5,29583.0,21488.14,8094.86,2.6,Debit Card,Delivered
+ORD10918,2025-12-01,Beauty,Perfume,Maharashtra,4,47298,20,151353.6,131887.54,19466.06,4.9,Cash on Delivery,Delivered
+ORD10919,2025-12-01,Fashion,Jeans,Tamil Nadu,1,42507,0,42507.0,30958.89,11548.11,2.9,Credit Card,Delivered
+ORD10920,2025-12-01,Beauty,Moisturizer,Telangana,3,19070,15,48628.5,38115.34,10513.16,3.4,Credit Card,Delivered
+ORD10921,2025-12-02,Sports,Football,Telangana,4,16447,20,52630.4,40052.79,12577.61,3.5,Net Banking,Delivered
+ORD10922,2025-12-02,Home & Kitchen,Lamp,Delhi,3,38595,0,115785.0,90780.92,25004.08,3.7,UPI,Delivered
+ORD10923,2025-12-02,Home & Kitchen,Bedsheet,Tamil Nadu,2,6401,5,12161.9,8237.07,3924.83,4.5,UPI,Delivered
+ORD10924,2025-12-03,Electronics,Headphones,Delhi,2,27138,15,46134.6,43377.09,2757.51,2.5,UPI,Delivered
+ORD10925,2025-12-03,Fashion,Jeans,Delhi,3,21295,0,63885.0,38713.38,25171.62,4.8,Net Banking,Delivered
+ORD10926,2025-12-04,Sports,Cricket Bat,Delhi,3,9344,10,25228.8,19656.47,5572.33,4.1,Debit Card,Delivered
+ORD10927,2025-12-04,Home & Kitchen,Cookware Set,Karnataka,3,30918,15,78840.9,64453.46,14387.44,4.9,UPI,Delivered
+ORD10928,2025-12-04,Fashion,T-Shirt,West Bengal,1,16206,10,14585.4,12539.15,2046.25,4.5,Credit Card,Cancelled
+ORD10929,2025-12-05,Home & Kitchen,Mixer,Tamil Nadu,3,9483,10,25604.1,16713.5,8890.6,4.8,Net Banking,Delivered
+ORD10930,2025-12-05,Home & Kitchen,Bedsheet,Karnataka,3,32746,15,83502.3,78166.31,5335.99,4.0,Cash on Delivery,Returned
+ORD10931,2025-12-05,Home & Kitchen,Mixer,West Bengal,3,8916,10,24073.2,18549.35,5523.85,3.4,Credit Card,Delivered
+ORD10932,2025-12-06,Beauty,Perfume,Karnataka,1,33724,5,32037.8,23885.01,8152.79,3.6,Credit Card,Delivered
+ORD10933,2025-12-06,Fashion,Jacket,Tamil Nadu,3,8314,10,22447.8,17153.73,5294.07,4.1,UPI,Delivered
+ORD10934,2025-12-06,Beauty,Shampoo,Karnataka,3,21879,20,52509.6,36738.78,15770.82,3.6,Cash on Delivery,Delivered
+ORD10935,2025-12-07,Home & Kitchen,Mixer,Delhi,1,40447,15,34379.95,27674.42,6705.53,4.3,UPI,Delivered
+ORD10936,2025-12-07,Sports,Cricket Bat,Tamil Nadu,4,11625,10,41850.0,28883.87,12966.13,2.7,Credit Card,Delivered
+ORD10937,2025-12-08,Electronics,Headphones,West Bengal,3,38439,5,109551.15,74094.15,35457.0,4.6,Credit Card,Cancelled
+ORD10938,2025-12-08,Electronics,Smartphone,West Bengal,2,36164,0,72328.0,52456.42,19871.58,3.0,Cash on Delivery,Delivered
+ORD10939,2025-12-08,Home & Kitchen,Bedsheet,West Bengal,3,45157,5,128697.45,92713.4,35984.05,4.9,Cash on Delivery,Delivered
+ORD10940,2025-12-09,Home & Kitchen,Mixer,Karnataka,3,8651,0,25953.0,14927.36,11025.64,2.9,Cash on Delivery,Delivered
+ORD10941,2025-12-09,Beauty,Face Wash,Maharashtra,3,35827,20,85984.8,61234.2,24750.6,2.8,Credit Card,Delivered
+ORD10942,2025-12-09,Home & Kitchen,Cookware Set,West Bengal,2,46849,5,89013.1,56230.75,32782.35,4.5,Credit Card,Delivered
+ORD10943,2025-12-10,Sports,Running Shoes,West Bengal,4,38210,15,129914.0,91939.22,37974.78,4.5,Credit Card,Delivered
+ORD10944,2025-12-10,Home & Kitchen,Mixer,Karnataka,4,9598,5,36472.4,27421.15,9051.25,4.3,UPI,Delivered
+ORD10945,2025-12-10,Electronics,Headphones,Maharashtra,1,41152,5,39094.4,24609.3,14485.1,4.9,Cash on Delivery,Delivered
+ORD10946,2025-12-11,Electronics,Laptop,Tamil Nadu,3,5588,10,15087.6,13211.11,1876.49,3.2,Debit Card,Delivered
+ORD10947,2025-12-11,Sports,Cricket Bat,Maharashtra,1,29545,5,28067.75,17923.04,10144.71,4.6,Debit Card,Delivered
+ORD10948,2025-12-12,Electronics,Smartwatch,Maharashtra,2,25007,15,42511.9,28738.32,13773.58,3.4,Net Banking,Delivered
+ORD10949,2025-12-12,Sports,Cricket Bat,West Bengal,4,26671,20,85347.2,83901.78,1445.42,3.8,UPI,Delivered
+ORD10950,2025-12-12,Fashion,Jeans,Gujarat,1,26097,20,20877.6,16434.28,4443.32,3.6,Net Banking,Cancelled
+ORD10951,2025-12-13,Electronics,Smartwatch,Maharashtra,2,1815,5,3448.5,2413.46,1035.04,2.5,Cash on Delivery,Delivered
+ORD10952,2025-12-13,Fashion,Shoes,Tamil Nadu,1,25532,15,21702.2,20653.78,1048.42,3.9,Credit Card,Returned
+ORD10953,2025-12-13,Beauty,Face Wash,Delhi,3,46853,0,140559.0,113147.14,27411.86,4.4,Cash on Delivery,Delivered
+ORD10954,2025-12-14,Home & Kitchen,Cookware Set,Gujarat,2,21974,20,35158.4,32654.58,2503.82,2.9,Cash on Delivery,Delivered
+ORD10955,2025-12-14,Beauty,Shampoo,West Bengal,3,14026,10,37870.2,23926.12,13944.08,4.8,Credit Card,Delivered
+ORD10956,2025-12-14,Beauty,Perfume,Karnataka,4,49742,5,189019.6,141307.44,47712.16,3.8,Credit Card,Delivered
+ORD10957,2025-12-15,Home & Kitchen,Lamp,Tamil Nadu,3,5174,5,14745.9,12682.27,2063.63,2.9,Net Banking,Delivered
+ORD10958,2025-12-15,Beauty,Moisturizer,Telangana,3,24442,0,73326.0,59076.37,14249.63,4.1,UPI,Delivered
+ORD10959,2025-12-16,Sports,Yoga Mat,Delhi,1,25751,5,24463.45,14900.06,9563.39,3.0,UPI,Delivered
+ORD10960,2025-12-16,Home & Kitchen,Mixer,West Bengal,1,24027,20,19221.6,15783.6,3438.0,2.7,Cash on Delivery,Cancelled
+ORD10961,2025-12-16,Electronics,Smartwatch,Gujarat,4,46105,15,156757.0,117142.65,39614.35,4.2,Net Banking,Delivered
+ORD10962,2025-12-17,Home & Kitchen,Bedsheet,Gujarat,4,21232,20,67942.4,49685.14,18257.26,2.8,Debit Card,Delivered
+ORD10963,2025-12-17,Sports,Cricket Bat,West Bengal,3,48671,0,146013.0,107698.54,38314.46,2.8,UPI,Delivered
+ORD10964,2025-12-17,Fashion,Jacket,Tamil Nadu,2,3574,10,6433.2,4459.92,1973.28,4.3,Debit Card,Delivered
+ORD10965,2025-12-18,Sports,Running Shoes,West Bengal,1,36763,5,34924.85,23642.79,11282.06,2.6,Credit Card,Delivered
+ORD10966,2025-12-18,Home & Kitchen,Lamp,Telangana,4,29749,10,107096.4,68350.93,38745.47,4.5,Net Banking,Delivered
+ORD10967,2025-12-18,Beauty,Perfume,Tamil Nadu,4,12217,5,46424.6,33447.76,12976.84,4.5,Cash on Delivery,Delivered
+ORD10968,2025-12-19,Fashion,Jeans,Karnataka,1,11591,5,11011.45,6870.05,4141.4,2.9,Credit Card,Delivered
+ORD10969,2025-12-19,Sports,Running Shoes,Delhi,3,36054,10,97345.8,72107.76,25238.04,3.8,Cash on Delivery,Delivered
+ORD10970,2025-12-20,Electronics,Laptop,West Bengal,3,31971,5,91117.35,56464.21,34653.14,2.7,Cash on Delivery,Delivered
+ORD10971,2025-12-20,Fashion,Jacket,Tamil Nadu,2,30655,10,55179.0,49510.24,5668.76,4.1,Cash on Delivery,Delivered
+ORD10972,2025-12-20,Home & Kitchen,Bedsheet,Karnataka,4,2778,15,9445.2,6546.58,2898.62,2.7,Credit Card,Delivered
+ORD10973,2025-12-21,Home & Kitchen,Lamp,Delhi,1,29994,0,29994.0,20723.14,9270.86,4.9,Debit Card,Delivered
+ORD10974,2025-12-21,Home & Kitchen,Cookware Set,Telangana,2,49074,20,78518.4,59201.36,19317.04,3.0,UPI,Returned
+ORD10975,2025-12-21,Electronics,Smartphone,Karnataka,1,1111,10,999.9,633.96,365.94,4.2,Debit Card,Delivered
+ORD10976,2025-12-22,Fashion,T-Shirt,Maharashtra,3,23583,15,60136.65,42776.5,17360.15,2.8,Credit Card,Delivered
+ORD10977,2025-12-22,Electronics,Smartwatch,Telangana,3,24845,15,63354.75,42096.55,21258.2,3.0,Debit Card,Delivered
+ORD10978,2025-12-22,Home & Kitchen,Cookware Set,Delhi,4,44863,15,152534.2,105452.69,47081.51,3.6,Net Banking,Delivered
+ORD10979,2025-12-23,Fashion,T-Shirt,Telangana,3,14321,15,36518.55,29354.07,7164.48,3.9,Net Banking,Delivered
+ORD10980,2025-12-23,Home & Kitchen,Bedsheet,Gujarat,1,23909,20,19127.2,17357.7,1769.5,5.0,Debit Card,Delivered
+ORD10981,2025-12-24,Home & Kitchen,Lamp,West Bengal,2,35930,10,64674.0,41217.58,23456.42,2.6,Cash on Delivery,Returned
+ORD10982,2025-12-24,Beauty,Moisturizer,Gujarat,1,3251,5,3088.45,2175.16,913.29,2.5,UPI,Returned
+ORD10983,2025-12-24,Home & Kitchen,Mixer,West Bengal,3,40104,0,120312.0,85052.97,35259.03,3.4,Debit Card,Delivered
+ORD10984,2025-12-25,Beauty,Shampoo,Telangana,3,41155,10,111118.5,75713.79,35404.71,3.4,Cash on Delivery,Delivered
+ORD10985,2025-12-25,Home & Kitchen,Lamp,Karnataka,4,36052,0,144208.0,93801.7,50406.3,4.7,Cash on Delivery,Delivered
+ORD10986,2025-12-25,Beauty,Shampoo,West Bengal,2,32497,5,61744.3,37007.29,24737.01,4.8,Net Banking,Delivered
+ORD10987,2025-12-26,Beauty,Shampoo,Telangana,2,37443,0,74886.0,45638.18,29247.82,4.7,Debit Card,Delivered
+ORD10988,2025-12-26,Fashion,T-Shirt,Maharashtra,1,39142,10,35227.8,26460.9,8766.9,2.9,Net Banking,Delivered
+ORD10989,2025-12-26,Fashion,T-Shirt,Maharashtra,2,45193,5,85866.7,73883.27,11983.43,3.5,Net Banking,Delivered
+ORD10990,2025-12-27,Beauty,Shampoo,Karnataka,2,21551,10,38791.8,35300.17,3491.63,4.4,Debit Card,Delivered
+ORD10991,2025-12-27,Fashion,Shoes,Maharashtra,4,22938,15,77989.2,74731.81,3257.39,3.3,UPI,Delivered
+ORD10992,2025-12-28,Home & Kitchen,Cookware Set,Delhi,4,31987,15,108755.8,84987.33,23768.47,4.2,Credit Card,Delivered
+ORD10993,2025-12-28,Electronics,Headphones,West Bengal,1,9856,5,9363.2,5635.5,3727.7,3.1,Cash on Delivery,Cancelled
+ORD10994,2025-12-28,Home & Kitchen,Lamp,Gujarat,2,42847,10,77124.6,54618.34,22506.26,3.3,Debit Card,Delivered
+ORD10995,2025-12-29,Home & Kitchen,Bedsheet,Maharashtra,3,38583,10,104174.1,71091.05,33083.05,4.7,Net Banking,Delivered
+ORD10996,2025-12-29,Beauty,Face Wash,Gujarat,2,31645,10,56961.0,35050.9,21910.1,3.1,Net Banking,Delivered
+ORD10997,2025-12-29,Home & Kitchen,Lamp,Karnataka,1,15257,15,12968.45,8783.65,4184.8,4.9,UPI,Delivered
+ORD10998,2025-12-30,Fashion,Jacket,Telangana,4,17546,5,66674.8,47189.04,19485.76,3.3,Net Banking,Delivered
+ORD10999,2025-12-30,Sports,Football,Maharashtra,3,21889,20,52533.6,42139.1,10394.5,2.6,Credit Card,Cancelled
+ORD11000,2025-12-31,Home & Kitchen,Cookware Set,Telangana,3,33210,0,99630.0,59648.03,39981.97,3.1,Net Banking,Delivered
